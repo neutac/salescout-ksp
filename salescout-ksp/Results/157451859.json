@@ -1,0 +1,2290 @@
+{
+  "product_id": "157451859",
+  "city_id": "750000000",
+  "url": "https://kaspi.kz/shop/p/arnai-ar-1505-seryi-serebristyi-157451859/?c=750000000",
+  "fetched_at": "2026-11-12T21:25:41+05:00",
+  "StockAvailable": 91,
+  "stock_by_merchant": [
+    {
+      "merchant_id": "30037450",
+      "StockAvailable": 91,
+      "probes": [
+        {
+          "requested_quantity": 50,
+          "status": 200,
+          "attempts": 1,
+          "reported_stock": 91,
+          "detail": null
+        },
+        {
+          "requested_quantity": 100,
+          "status": 200,
+          "attempts": 1,
+          "reported_stock": 91,
+          "detail": null
+        }
+      ],
+      "merchant_name": "FIRDAWS ФИРМЕННЫЙ МАГАЗИН",
+      "price": 109900
+    },
+    {
+      "merchant_id": "10544027",
+      "StockAvailable": 91,
+      "probes": [
+        {
+          "requested_quantity": 50,
+          "status": 200,
+          "attempts": 1,
+          "reported_stock": 91,
+          "detail": null
+        },
+        {
+          "requested_quantity": 100,
+          "status": 200,
+          "attempts": 1,
+          "reported_stock": 91,
+          "detail": null
+        }
+      ],
+      "merchant_name": "ARNAI - ресми дүкені, официальный магазин",
+      "price": 109900
+    },
+    {
+      "merchant_id": "12438048",
+      "StockAvailable": 91,
+      "probes": [
+        {
+          "requested_quantity": 50,
+          "status": 200,
+          "attempts": 1,
+          "reported_stock": 91,
+          "detail": null
+        },
+        {
+          "requested_quantity": 100,
+          "status": 200,
+          "attempts": 1,
+          "reported_stock": 91,
+          "detail": null
+        }
+      ],
+      "merchant_name": "TOP MARKET",
+      "price": 112900
+    }
+  ],
+  "quantity": {
+    "max_quantity": 3,
+    "increment": 1.0,
+    "unit": "шт",
+    "availability": null,
+    "schema_availability": null,
+    "analytics_stock": null,
+    "StockAvailable": 91,
+    "note": "max_quantity — лимит одного заказа. StockAvailable — остаток склада, который сервер вернул на проверке количества."
+  },
+  "content": {
+    "status": 200,
+    "attempts": 1,
+    "data": {
+      "card": {
+        "id": "157451859",
+        "name": "ARNAI AR-1505 серый, серебристый",
+        "createdTime": "2026-02-10T08:32:57.039+00:00",
+        "shopLink": "/p/arnai-ar-1505-seryi-serebristyi-157451859/",
+        "maxQuantity": 3,
+        "numberOfOrders": null,
+        "unit": {
+          "code": "pieces",
+          "type": "PIECES",
+          "measurementLiteral": "шт",
+          "countingLiteral": "шт",
+          "increment": 1.0
+        },
+        "category": [
+          "Бытовая техника",
+          "Мелкая техника для кухни",
+          "Кухонные комбайны и мясорубки",
+          "Кухонные комбайны"
+        ],
+        "categoryRu": [
+          "Бытовая техника",
+          "Мелкая техника для кухни",
+          "Кухонные комбайны и мясорубки",
+          "Кухонные комбайны"
+        ],
+        "categoryId": "03513",
+        "promoConditions": {
+          "brand": "ARNAI",
+          "categoryCodes": [
+            "Food processors",
+            "Food processors and grinders",
+            "Kitchen appliances",
+            "Home equipment",
+            "Categories"
+          ],
+          "baseProductCodes": [
+            "[Master - Food processors][arnai]{AR-1505}{комбайн}"
+          ],
+          "groups": null,
+          "productSeries": null
+        },
+        "stickers": null,
+        "refundPeriod": 365,
+        "title": "ARNAI AR-1505 серый, серебристый"
+      },
+      "galleryImages": [
+        {
+          "small": "https://resources.cdn-kaspi.kz/img/m/p/p7a/pb8/106929027.jpeg?format=gallery-small",
+          "medium": "https://resources.cdn-kaspi.kz/img/m/p/p7a/pb8/106929027.jpeg?format=gallery-medium",
+          "large": "https://resources.cdn-kaspi.kz/img/m/p/p7a/pb8/106929027.jpeg?format=gallery-large",
+          "location": "p7a/pb8/106929027.jpeg",
+          "generated": false,
+          "visualType": null
+        },
+        {
+          "small": "https://resources.cdn-kaspi.kz/img/m/p/pa6/pb1/106929029.jpeg?format=gallery-small",
+          "medium": "https://resources.cdn-kaspi.kz/img/m/p/pa6/pb1/106929029.jpeg?format=gallery-medium",
+          "large": "https://resources.cdn-kaspi.kz/img/m/p/pa6/pb1/106929029.jpeg?format=gallery-large",
+          "location": "pa6/pb1/106929029.jpeg",
+          "generated": false,
+          "visualType": null
+        },
+        {
+          "small": "https://resources.cdn-kaspi.kz/img/m/p/p54/p5c/106929033.jpeg?format=gallery-small",
+          "medium": "https://resources.cdn-kaspi.kz/img/m/p/p54/p5c/106929033.jpeg?format=gallery-medium",
+          "large": "https://resources.cdn-kaspi.kz/img/m/p/p54/p5c/106929033.jpeg?format=gallery-large",
+          "location": "p54/p5c/106929033.jpeg",
+          "generated": false,
+          "visualType": null
+        },
+        {
+          "small": "https://resources.cdn-kaspi.kz/img/m/p/pad/p4e/106929037.jpeg?format=gallery-small",
+          "medium": "https://resources.cdn-kaspi.kz/img/m/p/pad/p4e/106929037.jpeg?format=gallery-medium",
+          "large": "https://resources.cdn-kaspi.kz/img/m/p/pad/p4e/106929037.jpeg?format=gallery-large",
+          "location": "pad/p4e/106929037.jpeg",
+          "generated": false,
+          "visualType": null
+        },
+        {
+          "small": "https://resources.cdn-kaspi.kz/img/m/p/p3a/p03/106929040.jpeg?format=gallery-small",
+          "medium": "https://resources.cdn-kaspi.kz/img/m/p/p3a/p03/106929040.jpeg?format=gallery-medium",
+          "large": "https://resources.cdn-kaspi.kz/img/m/p/p3a/p03/106929040.jpeg?format=gallery-large",
+          "location": "p3a/p03/106929040.jpeg",
+          "generated": false,
+          "visualType": null
+        },
+        {
+          "small": "https://resources.cdn-kaspi.kz/img/m/p/p0e/p0a/106929042.jpeg?format=gallery-small",
+          "medium": "https://resources.cdn-kaspi.kz/img/m/p/p0e/p0a/106929042.jpeg?format=gallery-medium",
+          "large": "https://resources.cdn-kaspi.kz/img/m/p/p0e/p0a/106929042.jpeg?format=gallery-large",
+          "location": "p0e/p0a/106929042.jpeg",
+          "generated": false,
+          "visualType": null
+        },
+        {
+          "small": "https://resources.cdn-kaspi.kz/img/m/p/p78/p0d/106929043.jpeg?format=gallery-small",
+          "medium": "https://resources.cdn-kaspi.kz/img/m/p/p78/p0d/106929043.jpeg?format=gallery-medium",
+          "large": "https://resources.cdn-kaspi.kz/img/m/p/p78/p0d/106929043.jpeg?format=gallery-large",
+          "location": "p78/p0d/106929043.jpeg",
+          "generated": false,
+          "visualType": null
+        },
+        {
+          "small": "https://resources.cdn-kaspi.kz/img/m/p/pe1/p10/106929044.jpeg?format=gallery-small",
+          "medium": "https://resources.cdn-kaspi.kz/img/m/p/pe1/p10/106929044.jpeg?format=gallery-medium",
+          "large": "https://resources.cdn-kaspi.kz/img/m/p/pe1/p10/106929044.jpeg?format=gallery-large",
+          "location": "pe1/p10/106929044.jpeg",
+          "generated": false,
+          "visualType": null
+        },
+        {
+          "small": "https://resources.cdn-kaspi.kz/img/m/p/p4b/p14/106929045.jpeg?format=gallery-small",
+          "medium": "https://resources.cdn-kaspi.kz/img/m/p/p4b/p14/106929045.jpeg?format=gallery-medium",
+          "large": "https://resources.cdn-kaspi.kz/img/m/p/p4b/p14/106929045.jpeg?format=gallery-large",
+          "location": "p4b/p14/106929045.jpeg",
+          "generated": false,
+          "visualType": null
+        }
+      ],
+      "videoId": null,
+      "description": "Многофункциональный кухонный комбайн 14-в-1 ARNAI<br><br>Мощный и универсальный кухонный комбайн ARNAI — это полноценная замена сразу нескольким кухонным приборам. Он сочетает в себе миксер, мясорубку, блендер, овощерезку и лапшарезку, позволяя готовить быстро, удобно и профессионально прямо у себя дома.<br><br>🔹 Высокая мощность и надежность<br><br>Мощный мотор 1900 Вт легко справляется с плотным тестом, мясом и твердыми продуктами<br><br>Планетарная система смешивания обеспечивает равномерное и однородное перемешивание<br><br>6 скоростей + импульсный режим для точного контроля процесса<br><br>Встроенная защита: прибор не включается при неправильной установке насадок<br><br>2 года гарантии<br><br>🔹 Большая чаша и удобство использования<br><br>Металлическая чаша из нержавеющей стали 6,5 л<br><br>Защитная крышка предотвращает разбрызгивание и позволяет добавлять ингредиенты во время работы<br><br>LED-дисплей с таймером<br><br>Устойчивое основание и надежная фиксация насадок<br><br>🔹 Богатая комплектация<br><br>Миксер:<br><br>Венчик — для взбивания сливок, соусов и яичных белков<br><br>Плоский битер — для кремов, пюре, теста и начинок<br><br>Крюк для теста — идеально подходит для хлеба, пиццы и выпечки<br><br>Мясорубка 3-в-1:<br><br>Решетки: 3 мм, 5 мм, 7 мм (мелкий, средний и крупный помол)<br><br>Насадки для сосисок и колбас<br><br>Подходит для фарша, котлет, кеббе и паштетов<br><br>Овощерезка:<br><br>Слайсер для тонкой нарезки<br><br>Мелкая и крупная терка<br><br>Идеальна для овощей, фруктов, сыра и орехов<br><br>Лапшерезка и тестораскатка:<br><br>Тестораскатка шириной 140 мм с 8 уровнями толщины<br><br>Лапшерезка 6,6 мм (широкая)<br><br>Лапшерезка 2,2 мм (узкая)<br><br>Блендер:<br><br>Стеклянная чаша 1,5 л<br><br>Ножи из нержавеющей стали<br><br>Подходит для смузи, крем-супов, соусов, кофе, орехов и льда<br><br>🔹 Преимущества<br><br>✔ 14 функций в одном устройстве<br>✔ Экономия места и времени<br>✔ Подходит для дома и полу-профессионального использования<br>✔ Современный дизайн из металла<br>✔ Простая сборка и уход<br><br>ARNAI — вся кухня в одном устройстве.<br>Готовьте быстрее, разнообразнее и с удовольствием!",
+      "descriptions": [
+        {
+          "title": "Описание",
+          "text": "Многофункциональный кухонный комбайн 14-в-1 ARNAI<br><br>Мощный и универсальный кухонный комбайн ARNAI — это полноценная замена сразу нескольким кухонным приборам. Он сочетает в себе миксер, мясорубку, блендер, овощерезку и лапшарезку, позволяя готовить быстро, удобно и профессионально прямо у себя дома.<br><br>🔹 Высокая мощность и надежность<br><br>Мощный мотор 1900 Вт легко справляется с плотным тестом, мясом и твердыми продуктами<br><br>Планетарная система смешивания обеспечивает равномерное и однородное перемешивание<br><br>6 скоростей + импульсный режим для точного контроля процесса<br><br>Встроенная защита: прибор не включается при неправильной установке насадок<br><br>2 года гарантии<br><br>🔹 Большая чаша и удобство использования<br><br>Металлическая чаша из нержавеющей стали 6,5 л<br><br>Защитная крышка предотвращает разбрызгивание и позволяет добавлять ингредиенты во время работы<br><br>LED-дисплей с таймером<br><br>Устойчивое основание и надежная фиксация насадок<br><br>🔹 Богатая комплектация<br><br>Миксер:<br><br>Венчик — для взбивания сливок, соусов и яичных белков<br><br>Плоский битер — для кремов, пюре, теста и начинок<br><br>Крюк для теста — идеально подходит для хлеба, пиццы и выпечки<br><br>Мясорубка 3-в-1:<br><br>Решетки: 3 мм, 5 мм, 7 мм (мелкий, средний и крупный помол)<br><br>Насадки для сосисок и колбас<br><br>Подходит для фарша, котлет, кеббе и паштетов<br><br>Овощерезка:<br><br>Слайсер для тонкой нарезки<br><br>Мелкая и крупная терка<br><br>Идеальна для овощей, фруктов, сыра и орехов<br><br>Лапшерезка и тестораскатка:<br><br>Тестораскатка шириной 140 мм с 8 уровнями толщины<br><br>Лапшерезка 6,6 мм (широкая)<br><br>Лапшерезка 2,2 мм (узкая)<br><br>Блендер:<br><br>Стеклянная чаша 1,5 л<br><br>Ножи из нержавеющей стали<br><br>Подходит для смузи, крем-супов, соусов, кофе, орехов и льда<br><br>🔹 Преимущества<br><br>✔ 14 функций в одном устройстве<br>✔ Экономия места и времени<br>✔ Подходит для дома и полу-профессионального использования<br>✔ Современный дизайн из металла<br>✔ Простая сборка и уход<br><br>ARNAI — вся кухня в одном устройстве.<br>Готовьте быстрее, разнообразнее и с удовольствием!",
+          "aiGenerated": true
+        }
+      ],
+      "specifications": [
+        {
+          "code": "Food processors*Included",
+          "name": "В комплекте",
+          "features": [
+            {
+              "code": "food processors*juicer",
+              "name": "Соковыжималка",
+              "description": null,
+              "type": "ENUM",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "нет"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 12,
+              "visible": true,
+              "multiValued": false,
+              "important": false,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "food processors*meat grinder",
+              "name": "Мясорубка",
+              "description": null,
+              "type": null,
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "true"
+                }
+              ],
+              "mandatory": false,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 13,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "food processors*mill",
+              "name": "Мельничка",
+              "description": null,
+              "type": null,
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "false"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 14,
+              "visible": true,
+              "multiValued": false,
+              "important": false,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "food processors*berries press",
+              "name": "Пресс для ягод",
+              "description": null,
+              "type": null,
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "false"
+                }
+              ],
+              "mandatory": false,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 15,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": 1,
+              "generated": false
+            },
+            {
+              "code": "food processors*overload protection",
+              "name": "Защита от перегрузки",
+              "description": null,
+              "type": null,
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "true"
+                }
+              ],
+              "mandatory": false,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 16,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": 1,
+              "generated": false
+            },
+            {
+              "code": "food processors*spatula",
+              "name": "Лопатка",
+              "description": null,
+              "type": null,
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "true"
+                }
+              ],
+              "mandatory": false,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 17,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": 1,
+              "generated": false
+            },
+            {
+              "code": "food processors*nozzles",
+              "name": "Насадки",
+              "description": null,
+              "type": "ENUM",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "насадка для взбивания"
+                },
+                {
+                  "value": "диск для шинковки"
+                },
+                {
+                  "value": "насадка для теста"
+                },
+                {
+                  "value": "диск для нарезки ломтиками"
+                },
+                {
+                  "value": "диск для нарезки соломкой"
+                },
+                {
+                  "value": "венчик"
+                },
+                {
+                  "value": "крюк для теста"
+                },
+                {
+                  "value": "насадка-мясорубка"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 18,
+              "visible": true,
+              "multiValued": true,
+              "important": true,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "food processors*number of nozzles",
+              "name": "Количество насадок",
+              "description": null,
+              "type": "NUMBER",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "14"
+                }
+              ],
+              "mandatory": false,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 19,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": null,
+              "generated": false
+            }
+          ],
+          "position": 0
+        },
+        {
+          "code": "Food processors*Features",
+          "name": "Особенности",
+          "features": [
+            {
+              "code": "food processors*case material",
+              "name": "Материал корпуса",
+              "description": null,
+              "type": "ENUM",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "пластик"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 19,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": 1,
+              "generated": false
+            },
+            {
+              "code": "food processors*bowl material",
+              "name": "Материал чаши",
+              "description": null,
+              "type": "ENUM",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "нерж. сталь"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 20,
+              "visible": true,
+              "multiValued": false,
+              "important": false,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "food processors*power cabel",
+              "name": "Сетевой шнур",
+              "description": null,
+              "type": "STRING",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "Европейский шнур"
+                }
+              ],
+              "mandatory": false,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 24,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": 1,
+              "generated": false
+            },
+            {
+              "code": "food processors*rubberized trotters",
+              "name": "Прорезиненные ножки",
+              "description": null,
+              "type": null,
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "true"
+                }
+              ],
+              "mandatory": false,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 25,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": 1,
+              "generated": false
+            },
+            {
+              "code": "food processors*additional information",
+              "name": "Дополнительная информация",
+              "description": null,
+              "type": "STRING",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "LED дисплей с таймером и в комплекте лопатка"
+                }
+              ],
+              "mandatory": false,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 26,
+              "visible": true,
+              "multiValued": false,
+              "important": null,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "food processors*dimensions #wxdxh#",
+              "name": "Габариты (ШхГхВ)",
+              "description": null,
+              "type": "STRING",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "605х266х377"
+                }
+              ],
+              "mandatory": false,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 27,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "food processors*weight",
+              "name": "Вес",
+              "description": null,
+              "type": "NUMBER",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "8 кг"
+                }
+              ],
+              "mandatory": false,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 28,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": null,
+              "generated": false
+            }
+          ],
+          "position": 0
+        },
+        {
+          "code": "Food processors*General",
+          "name": "Общие характеристики",
+          "features": [
+            {
+              "code": "food processors*type",
+              "name": "Тип",
+              "description": null,
+              "type": "ENUM",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "комбайн"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 1,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": 1,
+              "generated": false
+            },
+            {
+              "code": "food processors*energy power",
+              "name": "Мощность",
+              "description": null,
+              "type": "NUMBER",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "1900 Вт"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 2,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "food processors*bowl capacity",
+              "name": "Емкость чаши",
+              "description": null,
+              "type": "NUMBER",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "6.5 л"
+                }
+              ],
+              "mandatory": false,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 3,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": 1,
+              "generated": false
+            },
+            {
+              "code": "food processors*blender",
+              "name": "Блендер",
+              "description": null,
+              "type": null,
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "true"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 4,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "food processors*blender jar capacity",
+              "name": "Емкость блендера",
+              "description": null,
+              "type": "NUMBER",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "1.5 л"
+                }
+              ],
+              "mandatory": false,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 5,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": 1,
+              "generated": false
+            },
+            {
+              "code": "food processors*no. of speeds",
+              "name": "Количество скоростей",
+              "description": null,
+              "type": "NUMBER",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "6"
+                }
+              ],
+              "mandatory": false,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 7,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "food processors*impulse mode",
+              "name": "Импульсный режим",
+              "description": null,
+              "type": null,
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "true"
+                }
+              ],
+              "mandatory": false,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 9,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "food processors*smooth adjustment",
+              "name": "Плавная регулировка",
+              "description": null,
+              "type": null,
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "true"
+                }
+              ],
+              "mandatory": false,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 10,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": 1,
+              "generated": false
+            },
+            {
+              "code": "food processors*control #combined",
+              "name": "Управление",
+              "description": null,
+              "type": "STRING",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "механическое, количество скоростей 6"
+                }
+              ],
+              "mandatory": false,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 11,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": null,
+              "generated": false
+            }
+          ],
+          "position": 0
+        },
+        {
+          "code": "Home equipment*Harakteristiki",
+          "name": "",
+          "features": [
+            {
+              "code": "home equipment*colour",
+              "name": "Цвет",
+              "description": null,
+              "type": "ENUM",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "серый"
+                },
+                {
+                  "value": "серебристый"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 2,
+              "visible": true,
+              "multiValued": true,
+              "important": true,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "home equipment*country",
+              "name": "Страна производства",
+              "description": null,
+              "type": "ENUM",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "Китай"
+                }
+              ],
+              "mandatory": false,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 4,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": 1,
+              "generated": false
+            }
+          ],
+          "position": 20
+        }
+      ],
+      "weight": 8.0,
+      "masterCategoryCode": "Master - Food processors",
+      "masterCategoryName": "Кухонные комбайны",
+      "restrictedAge": 0,
+      "sizeTableCode": null,
+      "hasVariants": false,
+      "childrenContent": true,
+      "certificate": null,
+      "carParts": false,
+      "videos": [],
+      "teasers": [
+        "pc4/p0a/109899975"
+      ],
+      "richContent": null,
+      "version": "V1",
+      "aiGenerated": false
+    }
+  },
+  "limits": {
+    "status": 200,
+    "attempts": 1,
+    "data": {
+      "productLimit": {
+        "157451859": {
+          "card": {
+            "id": "157451859",
+            "title": "ARNAI AR-1505 серый, серебристый",
+            "name": "ARNAI AR-1505 серый, серебристый",
+            "names": {
+              "ru": "ARNAI AR-1505 серый, серебристый",
+              "en": "Кухонный комбайн ARNAI AR-1505 серый, серебристый",
+              "kz": "ARNAI AR-1505 сұр, күміс түсті"
+            },
+            "shopLink": "/p/arnai-ar-1505-seryi-serebristyi-157451859/",
+            "maxQuantity": 3,
+            "unit": {
+              "code": "pieces",
+              "type": "PIECES",
+              "measurementLiteral": "шт",
+              "countingLiteral": "шт",
+              "increment": 1.0
+            },
+            "category": [
+              "Бытовая техника",
+              "Мелкая техника для кухни",
+              "Кухонные комбайны и мясорубки",
+              "Кухонные комбайны"
+            ],
+            "categoryRu": [
+              "Бытовая техника",
+              "Мелкая техника для кухни",
+              "Кухонные комбайны и мясорубки",
+              "Кухонные комбайны"
+            ],
+            "categoryId": "03513",
+            "verticalCategoryCode": "Home equipment",
+            "promoConditions": {
+              "brand": "ARNAI",
+              "categoryCodes": [
+                "Food processors",
+                "Food processors and grinders",
+                "Kitchen appliances",
+                "Home equipment",
+                "Categories"
+              ],
+              "baseProductCodes": [
+                "[Master - Food processors][arnai]{AR-1505}{комбайн}"
+              ],
+              "groups": null,
+              "productSeries": null
+            },
+            "stickers": [],
+            "refundPeriod": 365,
+            "certificate": null,
+            "carParts": false,
+            "createdAt": "2026-02-10T08:32:57.039+00:00",
+            "clothesShoesCollections": null,
+            "quantityInPackage": null,
+            "settings": {}
+          },
+          "galleryImages": [
+            {
+              "small": "https://resources.cdn-kaspi.kz/img/m/p/p7a/pb8/106929027.jpeg?format=gallery-small",
+              "medium": "https://resources.cdn-kaspi.kz/img/m/p/p7a/pb8/106929027.jpeg?format=gallery-medium",
+              "large": "https://resources.cdn-kaspi.kz/img/m/p/p7a/pb8/106929027.jpeg?format=gallery-large",
+              "location": "p7a/pb8/106929027.jpeg",
+              "generated": false,
+              "visualType": null
+            },
+            {
+              "small": "https://resources.cdn-kaspi.kz/img/m/p/pa6/pb1/106929029.jpeg?format=gallery-small",
+              "medium": "https://resources.cdn-kaspi.kz/img/m/p/pa6/pb1/106929029.jpeg?format=gallery-medium",
+              "large": "https://resources.cdn-kaspi.kz/img/m/p/pa6/pb1/106929029.jpeg?format=gallery-large",
+              "location": "pa6/pb1/106929029.jpeg",
+              "generated": false,
+              "visualType": null
+            },
+            {
+              "small": "https://resources.cdn-kaspi.kz/img/m/p/p54/p5c/106929033.jpeg?format=gallery-small",
+              "medium": "https://resources.cdn-kaspi.kz/img/m/p/p54/p5c/106929033.jpeg?format=gallery-medium",
+              "large": "https://resources.cdn-kaspi.kz/img/m/p/p54/p5c/106929033.jpeg?format=gallery-large",
+              "location": "p54/p5c/106929033.jpeg",
+              "generated": false,
+              "visualType": null
+            },
+            {
+              "small": "https://resources.cdn-kaspi.kz/img/m/p/pad/p4e/106929037.jpeg?format=gallery-small",
+              "medium": "https://resources.cdn-kaspi.kz/img/m/p/pad/p4e/106929037.jpeg?format=gallery-medium",
+              "large": "https://resources.cdn-kaspi.kz/img/m/p/pad/p4e/106929037.jpeg?format=gallery-large",
+              "location": "pad/p4e/106929037.jpeg",
+              "generated": false,
+              "visualType": null
+            },
+            {
+              "small": "https://resources.cdn-kaspi.kz/img/m/p/p3a/p03/106929040.jpeg?format=gallery-small",
+              "medium": "https://resources.cdn-kaspi.kz/img/m/p/p3a/p03/106929040.jpeg?format=gallery-medium",
+              "large": "https://resources.cdn-kaspi.kz/img/m/p/p3a/p03/106929040.jpeg?format=gallery-large",
+              "location": "p3a/p03/106929040.jpeg",
+              "generated": false,
+              "visualType": null
+            },
+            {
+              "small": "https://resources.cdn-kaspi.kz/img/m/p/p0e/p0a/106929042.jpeg?format=gallery-small",
+              "medium": "https://resources.cdn-kaspi.kz/img/m/p/p0e/p0a/106929042.jpeg?format=gallery-medium",
+              "large": "https://resources.cdn-kaspi.kz/img/m/p/p0e/p0a/106929042.jpeg?format=gallery-large",
+              "location": "p0e/p0a/106929042.jpeg",
+              "generated": false,
+              "visualType": null
+            },
+            {
+              "small": "https://resources.cdn-kaspi.kz/img/m/p/p78/p0d/106929043.jpeg?format=gallery-small",
+              "medium": "https://resources.cdn-kaspi.kz/img/m/p/p78/p0d/106929043.jpeg?format=gallery-medium",
+              "large": "https://resources.cdn-kaspi.kz/img/m/p/p78/p0d/106929043.jpeg?format=gallery-large",
+              "location": "p78/p0d/106929043.jpeg",
+              "generated": false,
+              "visualType": null
+            },
+            {
+              "small": "https://resources.cdn-kaspi.kz/img/m/p/pe1/p10/106929044.jpeg?format=gallery-small",
+              "medium": "https://resources.cdn-kaspi.kz/img/m/p/pe1/p10/106929044.jpeg?format=gallery-medium",
+              "large": "https://resources.cdn-kaspi.kz/img/m/p/pe1/p10/106929044.jpeg?format=gallery-large",
+              "location": "pe1/p10/106929044.jpeg",
+              "generated": false,
+              "visualType": null
+            },
+            {
+              "small": "https://resources.cdn-kaspi.kz/img/m/p/p4b/p14/106929045.jpeg?format=gallery-small",
+              "medium": "https://resources.cdn-kaspi.kz/img/m/p/p4b/p14/106929045.jpeg?format=gallery-medium",
+              "large": "https://resources.cdn-kaspi.kz/img/m/p/p4b/p14/106929045.jpeg?format=gallery-large",
+              "location": "p4b/p14/106929045.jpeg",
+              "generated": false,
+              "visualType": null
+            }
+          ],
+          "weight": 8.0,
+          "masterCategoryCode": "Master - Food processors",
+          "category": {
+            "code": "Master - Food processors",
+            "rfoId": "SMALL_HOME_APPLIANCES",
+            "suggestionId": "21560",
+            "communicationDevice": false,
+            "names": {
+              "ru": "Кухонные комбайны",
+              "en": "Кухонные комбайны",
+              "kz": "Асүй комбайны"
+            }
+          },
+          "brand": {
+            "code": "arnai",
+            "name": "ARNAI"
+          }
+        }
+      }
+    }
+  },
+  "review_summary": {
+    "status": 429,
+    "attempts": 1,
+    "data": null
+  },
+  "reviews": {
+    "status": 429,
+    "attempts": 1,
+    "data": null
+  },
+  "product_availability": {
+    "status": 429,
+    "attempts": 1,
+    "data": null
+  },
+  "offer_availability": {
+    "status": 429,
+    "attempts": 1,
+    "data": null
+  },
+  "offers": {
+    "status": 429,
+    "attempts": 2,
+    "data": null
+  },
+  "page": {
+    "status": 429,
+    "attempts": 1,
+    "data": null
+  },
+  "item": {
+    "status": 200,
+    "attempts": 1,
+    "data": {
+      "product": {
+        "card": {
+          "id": "157451859",
+          "name": "ARNAI AR-1505 серый, серебристый",
+          "createdTime": "2026-02-10T08:32:57.039+00:00",
+          "shopLink": "/p/arnai-ar-1505-seryi-serebristyi-157451859/",
+          "maxQuantity": 3,
+          "numberOfOrders": null,
+          "unit": {
+            "code": "pieces",
+            "type": "PIECES",
+            "measurementLiteral": "шт",
+            "countingLiteral": "шт",
+            "increment": 1
+          },
+          "category": [
+            "Бытовая техника",
+            "Мелкая техника для кухни",
+            "Кухонные комбайны и мясорубки",
+            "Кухонные комбайны"
+          ],
+          "categoryRu": [
+            "Бытовая техника",
+            "Мелкая техника для кухни",
+            "Кухонные комбайны и мясорубки",
+            "Кухонные комбайны"
+          ],
+          "categoryId": "03513",
+          "promoConditions": {
+            "brand": "ARNAI",
+            "categoryCodes": [
+              "Food processors",
+              "Food processors and grinders",
+              "Kitchen appliances",
+              "Home equipment",
+              "Categories"
+            ],
+            "baseProductCodes": [
+              "[Master - Food processors][arnai]{AR-1505}{комбайн}"
+            ],
+            "groups": null,
+            "productSeries": []
+          },
+          "stickers": null,
+          "refundPeriod": 365,
+          "title": "ARNAI AR-1505 серый, серебристый",
+          "rating": 5,
+          "reviewsQuantity": 174
+        },
+        "galleryImages": [
+          {
+            "small": "https://resources.cdn-kaspi.kz/img/m/p/p7a/pb8/106929027.jpeg?format=gallery-small",
+            "medium": "https://resources.cdn-kaspi.kz/img/m/p/p7a/pb8/106929027.jpeg?format=gallery-medium",
+            "large": "https://resources.cdn-kaspi.kz/img/m/p/p7a/pb8/106929027.jpeg?format=gallery-large",
+            "location": "p7a/pb8/106929027.jpeg",
+            "generated": false,
+            "visualType": null
+          },
+          {
+            "small": "https://resources.cdn-kaspi.kz/img/m/p/pa6/pb1/106929029.jpeg?format=gallery-small",
+            "medium": "https://resources.cdn-kaspi.kz/img/m/p/pa6/pb1/106929029.jpeg?format=gallery-medium",
+            "large": "https://resources.cdn-kaspi.kz/img/m/p/pa6/pb1/106929029.jpeg?format=gallery-large",
+            "location": "pa6/pb1/106929029.jpeg",
+            "generated": false,
+            "visualType": null
+          },
+          {
+            "small": "https://resources.cdn-kaspi.kz/img/m/p/p54/p5c/106929033.jpeg?format=gallery-small",
+            "medium": "https://resources.cdn-kaspi.kz/img/m/p/p54/p5c/106929033.jpeg?format=gallery-medium",
+            "large": "https://resources.cdn-kaspi.kz/img/m/p/p54/p5c/106929033.jpeg?format=gallery-large",
+            "location": "p54/p5c/106929033.jpeg",
+            "generated": false,
+            "visualType": null
+          },
+          {
+            "small": "https://resources.cdn-kaspi.kz/img/m/p/pad/p4e/106929037.jpeg?format=gallery-small",
+            "medium": "https://resources.cdn-kaspi.kz/img/m/p/pad/p4e/106929037.jpeg?format=gallery-medium",
+            "large": "https://resources.cdn-kaspi.kz/img/m/p/pad/p4e/106929037.jpeg?format=gallery-large",
+            "location": "pad/p4e/106929037.jpeg",
+            "generated": false,
+            "visualType": null
+          },
+          {
+            "small": "https://resources.cdn-kaspi.kz/img/m/p/p3a/p03/106929040.jpeg?format=gallery-small",
+            "medium": "https://resources.cdn-kaspi.kz/img/m/p/p3a/p03/106929040.jpeg?format=gallery-medium",
+            "large": "https://resources.cdn-kaspi.kz/img/m/p/p3a/p03/106929040.jpeg?format=gallery-large",
+            "location": "p3a/p03/106929040.jpeg",
+            "generated": false,
+            "visualType": null
+          },
+          {
+            "small": "https://resources.cdn-kaspi.kz/img/m/p/p0e/p0a/106929042.jpeg?format=gallery-small",
+            "medium": "https://resources.cdn-kaspi.kz/img/m/p/p0e/p0a/106929042.jpeg?format=gallery-medium",
+            "large": "https://resources.cdn-kaspi.kz/img/m/p/p0e/p0a/106929042.jpeg?format=gallery-large",
+            "location": "p0e/p0a/106929042.jpeg",
+            "generated": false,
+            "visualType": null
+          },
+          {
+            "small": "https://resources.cdn-kaspi.kz/img/m/p/p78/p0d/106929043.jpeg?format=gallery-small",
+            "medium": "https://resources.cdn-kaspi.kz/img/m/p/p78/p0d/106929043.jpeg?format=gallery-medium",
+            "large": "https://resources.cdn-kaspi.kz/img/m/p/p78/p0d/106929043.jpeg?format=gallery-large",
+            "location": "p78/p0d/106929043.jpeg",
+            "generated": false,
+            "visualType": null
+          },
+          {
+            "small": "https://resources.cdn-kaspi.kz/img/m/p/pe1/p10/106929044.jpeg?format=gallery-small",
+            "medium": "https://resources.cdn-kaspi.kz/img/m/p/pe1/p10/106929044.jpeg?format=gallery-medium",
+            "large": "https://resources.cdn-kaspi.kz/img/m/p/pe1/p10/106929044.jpeg?format=gallery-large",
+            "location": "pe1/p10/106929044.jpeg",
+            "generated": false,
+            "visualType": null
+          },
+          {
+            "small": "https://resources.cdn-kaspi.kz/img/m/p/p4b/p14/106929045.jpeg?format=gallery-small",
+            "medium": "https://resources.cdn-kaspi.kz/img/m/p/p4b/p14/106929045.jpeg?format=gallery-medium",
+            "large": "https://resources.cdn-kaspi.kz/img/m/p/p4b/p14/106929045.jpeg?format=gallery-large",
+            "location": "p4b/p14/106929045.jpeg",
+            "generated": false,
+            "visualType": null
+          }
+        ],
+        "videoId": null,
+        "description": "Многофункциональный кухонный комбайн 14-в-1 ARNAI<br />Мощный и универсальный кухонный комбайн ARNAI — это полноценная замена сразу нескольким кухонным приборам. Он сочетает в себе миксер, мясорубку, блендер, овощерезку и лапшарезку, позволяя готовить быстро, удобно и профессионально прямо у себя дома.<br />&#x1f539; Высокая мощность и надежность<br />Мощный мотор 1900 Вт легко справляется с плотным тестом, мясом и твердыми продуктами<br />Планетарная система смешивания обеспечивает равномерное и однородное перемешивание<br />6 скоростей &#43; импульсный режим для точного контроля процесса<br />Встроенная защита: прибор не включается при неправильной установке насадок<br />2 года гарантии<br />&#x1f539; Большая чаша и удобство использования<br />Металлическая чаша из нержавеющей стали 6,5 л<br />Защитная крышка предотвращает разбрызгивание и позволяет добавлять ингредиенты во время работы<br />LED-дисплей с таймером<br />Устойчивое основание и надежная фиксация насадок<br />&#x1f539; Богатая комплектация<br />Миксер:<br />Венчик — для взбивания сливок, соусов и яичных белков<br />Плоский битер — для кремов, пюре, теста и начинок<br />Крюк для теста — идеально подходит для хлеба, пиццы и выпечки<br />Мясорубка 3-в-1:<br />Решетки: 3 мм, 5 мм, 7 мм (мелкий, средний и крупный помол)<br />Насадки для сосисок и колбас<br />Подходит для фарша, котлет, кеббе и паштетов<br />Овощерезка:<br />Слайсер для тонкой нарезки<br />Мелкая и крупная терка<br />Идеальна для овощей, фруктов, сыра и орехов<br />Лапшерезка и тестораскатка:<br />Тестораскатка шириной 140 мм с 8 уровнями толщины<br />Лапшерезка 6,6 мм (широкая)<br />Лапшерезка 2,2 мм (узкая)<br />Блендер:<br />Стеклянная чаша 1,5 л<br />Ножи из нержавеющей стали<br />Подходит для смузи, крем-супов, соусов, кофе, орехов и льда<br />&#x1f539; Преимущества<br />✔ 14 функций в одном устройстве<br />✔ Экономия места и времени<br />✔ Подходит для дома и полу-профессионального использования<br />✔ Современный дизайн из металла<br />✔ Простая сборка и уход<br />ARNAI — вся кухня в одном устройстве.<br />Готовьте быстрее, разнообразнее и с удовольствием!",
+        "descriptions": [
+          {
+            "title": "Описание",
+            "text": "Многофункциональный кухонный комбайн 14-в-1 ARNAI<br />Мощный и универсальный кухонный комбайн ARNAI — это полноценная замена сразу нескольким кухонным приборам. Он сочетает в себе миксер, мясорубку, блендер, овощерезку и лапшарезку, позволяя готовить быстро, удобно и профессионально прямо у себя дома.<br />&#x1f539; Высокая мощность и надежность<br />Мощный мотор 1900 Вт легко справляется с плотным тестом, мясом и твердыми продуктами<br />Планетарная система смешивания обеспечивает равномерное и однородное перемешивание<br />6 скоростей &#43; импульсный режим для точного контроля процесса<br />Встроенная защита: прибор не включается при неправильной установке насадок<br />2 года гарантии<br />&#x1f539; Большая чаша и удобство использования<br />Металлическая чаша из нержавеющей стали 6,5 л<br />Защитная крышка предотвращает разбрызгивание и позволяет добавлять ингредиенты во время работы<br />LED-дисплей с таймером<br />Устойчивое основание и надежная фиксация насадок<br />&#x1f539; Богатая комплектация<br />Миксер:<br />Венчик — для взбивания сливок, соусов и яичных белков<br />Плоский битер — для кремов, пюре, теста и начинок<br />Крюк для теста — идеально подходит для хлеба, пиццы и выпечки<br />Мясорубка 3-в-1:<br />Решетки: 3 мм, 5 мм, 7 мм (мелкий, средний и крупный помол)<br />Насадки для сосисок и колбас<br />Подходит для фарша, котлет, кеббе и паштетов<br />Овощерезка:<br />Слайсер для тонкой нарезки<br />Мелкая и крупная терка<br />Идеальна для овощей, фруктов, сыра и орехов<br />Лапшерезка и тестораскатка:<br />Тестораскатка шириной 140 мм с 8 уровнями толщины<br />Лапшерезка 6,6 мм (широкая)<br />Лапшерезка 2,2 мм (узкая)<br />Блендер:<br />Стеклянная чаша 1,5 л<br />Ножи из нержавеющей стали<br />Подходит для смузи, крем-супов, соусов, кофе, орехов и льда<br />&#x1f539; Преимущества<br />✔ 14 функций в одном устройстве<br />✔ Экономия места и времени<br />✔ Подходит для дома и полу-профессионального использования<br />✔ Современный дизайн из металла<br />✔ Простая сборка и уход<br />ARNAI — вся кухня в одном устройстве.<br />Готовьте быстрее, разнообразнее и с удовольствием!",
+            "aiGenerated": true
+          }
+        ],
+        "specifications": [
+          {
+            "code": "Food processors*Included",
+            "name": "В комплекте",
+            "features": [
+              {
+                "code": "food processors*juicer",
+                "name": "Соковыжималка",
+                "description": null,
+                "type": "ENUM",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "нет"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 12,
+                "visible": true,
+                "multiValued": false,
+                "important": false,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "food processors*meat grinder",
+                "name": "Мясорубка",
+                "description": null,
+                "type": null,
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "true"
+                  }
+                ],
+                "mandatory": false,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 13,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "food processors*mill",
+                "name": "Мельничка",
+                "description": null,
+                "type": null,
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "false"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 14,
+                "visible": true,
+                "multiValued": false,
+                "important": false,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "food processors*berries press",
+                "name": "Пресс для ягод",
+                "description": null,
+                "type": null,
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "false"
+                  }
+                ],
+                "mandatory": false,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 15,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": 1,
+                "generated": false
+              },
+              {
+                "code": "food processors*overload protection",
+                "name": "Защита от перегрузки",
+                "description": null,
+                "type": null,
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "true"
+                  }
+                ],
+                "mandatory": false,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 16,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": 1,
+                "generated": false
+              },
+              {
+                "code": "food processors*spatula",
+                "name": "Лопатка",
+                "description": null,
+                "type": null,
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "true"
+                  }
+                ],
+                "mandatory": false,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 17,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": 1,
+                "generated": false
+              },
+              {
+                "code": "food processors*nozzles",
+                "name": "Насадки",
+                "description": null,
+                "type": "ENUM",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "насадка для взбивания"
+                  },
+                  {
+                    "value": "диск для шинковки"
+                  },
+                  {
+                    "value": "насадка для теста"
+                  },
+                  {
+                    "value": "диск для нарезки ломтиками"
+                  },
+                  {
+                    "value": "диск для нарезки соломкой"
+                  },
+                  {
+                    "value": "венчик"
+                  },
+                  {
+                    "value": "крюк для теста"
+                  },
+                  {
+                    "value": "насадка-мясорубка"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 18,
+                "visible": true,
+                "multiValued": true,
+                "important": true,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "food processors*number of nozzles",
+                "name": "Количество насадок",
+                "description": null,
+                "type": "NUMBER",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "14"
+                  }
+                ],
+                "mandatory": false,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 19,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": null,
+                "generated": false
+              }
+            ],
+            "position": 0
+          },
+          {
+            "code": "Food processors*Features",
+            "name": "Особенности",
+            "features": [
+              {
+                "code": "food processors*case material",
+                "name": "Материал корпуса",
+                "description": null,
+                "type": "ENUM",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "пластик"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 19,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": 1,
+                "generated": false
+              },
+              {
+                "code": "food processors*bowl material",
+                "name": "Материал чаши",
+                "description": null,
+                "type": "ENUM",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "нерж. сталь"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 20,
+                "visible": true,
+                "multiValued": false,
+                "important": false,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "food processors*power cabel",
+                "name": "Сетевой шнур",
+                "description": null,
+                "type": "STRING",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "Европейский шнур"
+                  }
+                ],
+                "mandatory": false,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 24,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": 1,
+                "generated": false
+              },
+              {
+                "code": "food processors*rubberized trotters",
+                "name": "Прорезиненные ножки",
+                "description": null,
+                "type": null,
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "true"
+                  }
+                ],
+                "mandatory": false,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 25,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": 1,
+                "generated": false
+              },
+              {
+                "code": "food processors*additional information",
+                "name": "Дополнительная информация",
+                "description": null,
+                "type": "STRING",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "LED дисплей с таймером и в комплекте лопатка"
+                  }
+                ],
+                "mandatory": false,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 26,
+                "visible": true,
+                "multiValued": false,
+                "important": null,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "food processors*dimensions #wxdxh#",
+                "name": "Габариты (ШхГхВ)",
+                "description": null,
+                "type": "STRING",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "605х266х377"
+                  }
+                ],
+                "mandatory": false,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 27,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "food processors*weight",
+                "name": "Вес",
+                "description": null,
+                "type": "NUMBER",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "8 кг"
+                  }
+                ],
+                "mandatory": false,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 28,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": null,
+                "generated": false
+              }
+            ],
+            "position": 0
+          },
+          {
+            "code": "Food processors*General",
+            "name": "Общие характеристики",
+            "features": [
+              {
+                "code": "food processors*type",
+                "name": "Тип",
+                "description": null,
+                "type": "ENUM",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "комбайн"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 1,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": 1,
+                "generated": false
+              },
+              {
+                "code": "food processors*energy power",
+                "name": "Мощность",
+                "description": null,
+                "type": "NUMBER",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "1900 Вт"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 2,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "food processors*bowl capacity",
+                "name": "Емкость чаши",
+                "description": null,
+                "type": "NUMBER",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "6.5 л"
+                  }
+                ],
+                "mandatory": false,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 3,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": 1,
+                "generated": false
+              },
+              {
+                "code": "food processors*blender",
+                "name": "Блендер",
+                "description": null,
+                "type": null,
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "true"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 4,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "food processors*blender jar capacity",
+                "name": "Емкость блендера",
+                "description": null,
+                "type": "NUMBER",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "1.5 л"
+                  }
+                ],
+                "mandatory": false,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 5,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": 1,
+                "generated": false
+              },
+              {
+                "code": "food processors*no. of speeds",
+                "name": "Количество скоростей",
+                "description": null,
+                "type": "NUMBER",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "6"
+                  }
+                ],
+                "mandatory": false,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 7,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "food processors*impulse mode",
+                "name": "Импульсный режим",
+                "description": null,
+                "type": null,
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "true"
+                  }
+                ],
+                "mandatory": false,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 9,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "food processors*smooth adjustment",
+                "name": "Плавная регулировка",
+                "description": null,
+                "type": null,
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "true"
+                  }
+                ],
+                "mandatory": false,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 10,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": 1,
+                "generated": false
+              },
+              {
+                "code": "food processors*control #combined",
+                "name": "Управление",
+                "description": null,
+                "type": "STRING",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "механическое, количество скоростей 6"
+                  }
+                ],
+                "mandatory": false,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 11,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": null,
+                "generated": false
+              }
+            ],
+            "position": 0
+          },
+          {
+            "code": "Home equipment*Harakteristiki",
+            "name": "",
+            "features": [
+              {
+                "code": "home equipment*colour",
+                "name": "Цвет",
+                "description": null,
+                "type": "ENUM",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "серый"
+                  },
+                  {
+                    "value": "серебристый"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 2,
+                "visible": true,
+                "multiValued": true,
+                "important": true,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "home equipment*country",
+                "name": "Страна производства",
+                "description": null,
+                "type": "ENUM",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "Китай"
+                  }
+                ],
+                "mandatory": false,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 4,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": 1,
+                "generated": false
+              }
+            ],
+            "position": 20
+          }
+        ],
+        "weight": 8,
+        "masterCategoryCode": "Master - Food processors",
+        "masterCategoryName": "Кухонные комбайны",
+        "restrictedAge": 0,
+        "sizeTableCode": null,
+        "hasVariants": false,
+        "childrenContent": true,
+        "certificate": null,
+        "carParts": false,
+        "richContent": null,
+        "teasers": [
+          "pc4/p0a/109899975"
+        ],
+        "videos": [],
+        "aiGenerated": true,
+        "status": "ACTUAL"
+      },
+      "offers": {
+        "offers": [
+          {
+            "masterSku": "157451859",
+            "masterCategory": "Master - Food processors",
+            "merchantId": "30037450",
+            "merchantName": "FIRDAWS ФИРМЕННЫЙ МАГАЗИН",
+            "merchantSku": "157451859_312358109",
+            "merchantReviewsQuantity": 1007,
+            "merchantRating": 4.9,
+            "title": "Кухонный комбайн 1505",
+            "price": 109900,
+            "priceMinusBonus": 106603,
+            "delivery": "2026-11-13T07:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "pickupSteps": {
+              "P": "2026-11-12T19:00:00.000+00:00",
+              "MA": "2026-11-12T19:00:00.000+00:00"
+            },
+            "kdPickupDate": "2026-11-13T03:55:00.000+00:00",
+            "availabilityDate": "2026-11-12T16:25:35.403+00:00",
+            "pickup": "2026-11-12T19:00:00.000+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+              "30037450_PP11"
+            ],
+            "pointsWithAvailability": [
+              "30037450_PP2",
+              "30037450_PP11"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "30037450_PP11",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TOMORROW",
+            "badges": [
+              {
+                "code": "0012_0312_1112_DEF",
+                "imageUrl": "https://mrk.cdn-kaspi.kz/msd/Aimira/2026/FEB/YELLOW_BADGE/card_small/0012/0012_3x.png",
+                "type": "LOAN",
+                "priority": 12,
+                "duration": 12,
+                "displayDuration": 12,
+                "owner": "KASPI"
+              },
+              {
+                "code": "DEFAULT_BONUS_BADGE_FROM_5K",
+                "type": "BONUS",
+                "priority": 3,
+                "bonusInCurrency": 3297,
+                "owner": "KASPI",
+                "bonusType": "RELATIVE",
+                "paymentModes": [
+                  "GOLD"
+                ],
+                "displayType": "ABSOLUTE"
+              }
+            ],
+            "deliveryOptions": {
+              "TO_DOOR": {
+                "delivery": "2026-11-14T18:00:00.000+00:00",
+                "deliveryDays": 1,
+                "kdPickupDate": "2026-11-13T15:00:00.000+00:00",
+                "deliveryType": "TO_DOOR",
+                "locatedInPoint": "30037450_PP11",
+                "kaspiDelivery": true,
+                "deliveryCost": 0,
+                "deliveryThreshold": 5000,
+                "interCity": false
+              },
+              "PICKUP": {
+                "delivery": "2026-11-12T19:00:00.000+00:00",
+                "deliveryDays": 0,
+                "deliveryType": "PICKUP",
+                "deliverySteps": {
+                  "P": "2026-11-12T19:00:00.000+00:00",
+                  "MA": "2026-11-12T19:00:00.000+00:00"
+                },
+                "interCity": false
+              },
+              "EXPRESS": {
+                "delivery": "2026-11-13T07:00:00.000+00:00",
+                "deliveryDays": 0,
+                "kdPickupDate": "2026-11-13T03:55:00.000+00:00",
+                "deliveryType": "EXPRESS",
+                "locatedInPoint": "30037450_PP11",
+                "kaspiDelivery": true,
+                "cost": 995,
+                "deliveryCost": 995,
+                "deliveryThreshold": 999999999,
+                "interCity": false,
+                "description": {
+                  "deliveryDurationInHours": 3,
+                  "deliverySlotsExists": true,
+                  "deferredExpress": true,
+                  "deferredExpressDate": "2026-11-13T07:00:00Z"
+                }
+              }
+            }
+          },
+          {
+            "masterSku": "157451859",
+            "masterCategory": "Master - Food processors",
+            "merchantId": "10544027",
+            "merchantName": "ARNAI - ресми дүкені, официальный магазин",
+            "merchantSku": "601766682",
+            "merchantReviewsQuantity": 2332,
+            "merchantRating": 4.8,
+            "title": "Кухонный комбайн 1505",
+            "price": 109900,
+            "priceMinusBonus": 106603,
+            "delivery": "2026-11-13T07:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+              "MA": "2026-11-12T19:00:00.000+00:00",
+              "D": "2026-11-12T19:00:00.000+00:00"
+            },
+            "pickupSteps": {
+              "P": "2026-11-12T19:00:00.000+00:00",
+              "MA": "2026-11-12T19:00:00.000+00:00"
+            },
+            "kdPickupDate": "2026-11-13T03:55:00.000+00:00",
+            "availabilityDate": "2026-11-12T19:00:00.000+00:00",
+            "pickup": "2026-11-12T19:00:00.000+00:00",
+            "kaspiDelivery": false,
+            "kdPoints": [
+              "10544027_PP10",
+              "10544027_PP7"
+            ],
+            "pointsWithAvailability": [
+              "10544027_PP7",
+              "10544027_PP10"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "10544027_PP7",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TOMORROW",
+            "badges": [
+              {
+                "code": "0012_0312_1112_DEF",
+                "imageUrl": "https://mrk.cdn-kaspi.kz/msd/Aimira/2026/FEB/YELLOW_BADGE/card_small/0012/0012_3x.png",
+                "type": "LOAN",
+                "priority": 12,
+                "duration": 12,
+                "displayDuration": 12,
+                "owner": "KASPI"
+              },
+              {
+                "code": "DEFAULT_BONUS_BADGE_FROM_5K",
+                "type": "BONUS",
+                "priority": 3,
+                "bonusInCurrency": 3297,
+                "owner": "KASPI",
+                "bonusType": "RELATIVE",
+                "paymentModes": [
+                  "GOLD"
+                ],
+                "displayType": "ABSOLUTE"
+              }
+            ],
+            "deliveryOptions": {
+              "TO_DOOR": {
+                "delivery": "2026-11-12T19:00:00.000+00:00",
+                "deliveryDays": 0,
+                "deliveryType": "TO_DOOR",
+                "locatedInPoint": "10544027_PP7",
+                "kaspiDelivery": false,
+                "deliverySteps": {
+                  "MA": "2026-11-12T19:00:00.000+00:00",
+                  "D": "2026-11-12T19:00:00.000+00:00"
+                },
+                "interCity": false
+              },
+              "PICKUP": {
+                "delivery": "2026-11-12T19:00:00.000+00:00",
+                "deliveryDays": 0,
+                "deliveryType": "PICKUP",
+                "deliverySteps": {
+                  "P": "2026-11-12T19:00:00.000+00:00",
+                  "MA": "2026-11-12T19:00:00.000+00:00"
+                },
+                "interCity": false
+              },
+              "EXPRESS": {
+                "delivery": "2026-11-13T07:00:00.000+00:00",
+                "deliveryDays": 0,
+                "kdPickupDate": "2026-11-13T03:55:00.000+00:00",
+                "deliveryType": "EXPRESS",
+                "locatedInPoint": "10544027_PP7",
+                "kaspiDelivery": true,
+                "cost": 995,
+                "deliveryCost": 995,
+                "deliveryThreshold": 999999999,
+                "interCity": false,
+                "description": {
+                  "deliveryDurationInHours": 3,
+                  "deliverySlotsExists": true,
+                  "deferredExpress": true,
+                  "deferredExpressDate": "2026-11-13T07:00:00Z"
+                }
+              }
+            }
+          },
+          {
+            "masterSku": "157451859",
+            "masterCategory": "Master - Food processors",
+            "merchantId": "12438048",
+            "merchantName": "TOP MARKET",
+            "merchantSku": "157451859_466803044",
+            "merchantReviewsQuantity": 1234,
+            "merchantRating": 4.8,
+            "title": "Кухонный комбайн 1505",
+            "price": 112900,
+            "priceMinusBonus": 109513,
+            "delivery": "2026-11-13T07:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "pickupSteps": {
+              "P": "2026-11-12T19:00:00.000+00:00",
+              "MA": "2026-11-12T19:00:00.000+00:00"
+            },
+            "kdPickupDate": "2026-11-13T03:55:00.000+00:00",
+            "availabilityDate": "2026-11-12T16:25:35.403+00:00",
+            "pickup": "2026-11-12T19:00:00.000+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+              "12438048_PP11",
+              "12438048_PP4"
+            ],
+            "pointsWithAvailability": [
+              "12438048_PP4",
+              "12438048_PP11"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "12438048_PP11",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TOMORROW",
+            "badges": [
+              {
+                "code": "0012_0312_1112_DEF",
+                "imageUrl": "https://mrk.cdn-kaspi.kz/msd/Aimira/2026/FEB/YELLOW_BADGE/card_small/0012/0012_3x.png",
+                "type": "LOAN",
+                "priority": 12,
+                "duration": 12,
+                "displayDuration": 12,
+                "owner": "KASPI"
+              },
+              {
+                "code": "DEFAULT_BONUS_BADGE_FROM_5K",
+                "type": "BONUS",
+                "priority": 3,
+                "bonusInCurrency": 3387,
+                "owner": "KASPI",
+                "bonusType": "RELATIVE",
+                "paymentModes": [
+                  "GOLD"
+                ],
+                "displayType": "ABSOLUTE"
+              }
+            ],
+            "deliveryOptions": {
+              "TO_DOOR": {
+                "delivery": "2026-11-14T18:00:00.000+00:00",
+                "deliveryDays": 1,
+                "kdPickupDate": "2026-11-13T15:00:00.000+00:00",
+                "deliveryType": "TO_DOOR",
+                "locatedInPoint": "12438048_PP4",
+                "kaspiDelivery": true,
+                "deliveryCost": 0,
+                "deliveryThreshold": 5000,
+                "interCity": false
+              },
+              "PICKUP": {
+                "delivery": "2026-11-12T19:00:00.000+00:00",
+                "deliveryDays": 0,
+                "deliveryType": "PICKUP",
+                "deliverySteps": {
+                  "P": "2026-11-12T19:00:00.000+00:00",
+                  "MA": "2026-11-12T19:00:00.000+00:00"
+                },
+                "interCity": false
+              },
+              "EXPRESS": {
+                "delivery": "2026-11-13T07:00:00.000+00:00",
+                "deliveryDays": 0,
+                "kdPickupDate": "2026-11-13T03:55:00.000+00:00",
+                "deliveryType": "EXPRESS",
+                "locatedInPoint": "12438048_PP11",
+                "kaspiDelivery": true,
+                "cost": 995,
+                "deliveryCost": 995,
+                "deliveryThreshold": 999999999,
+                "interCity": false,
+                "description": {
+                  "deliveryDurationInHours": 3,
+                  "deliverySlotsExists": true,
+                  "deferredExpress": true,
+                  "deferredExpressDate": "2026-11-13T07:00:00Z"
+                }
+              }
+            }
+          }
+        ],
+        "total": 3,
+        "offersCount": 3,
+        "badges": [
+          {
+            "code": "0012_0312_1112_DEF",
+            "imageUrl": "https://mrk.cdn-kaspi.kz/msd/Aimira/2026/FEB/YELLOW_BADGE/card_small/0012/0012_3x.png",
+            "type": "LOAN",
+            "priority": 12,
+            "duration": 12,
+            "displayDuration": 12,
+            "owner": "KASPI"
+          },
+          {
+            "code": "DEFAULT_BONUS_BADGE_FROM_5K",
+            "type": "BONUS",
+            "priority": 3,
+            "bonusInCurrency": 3297,
+            "owner": "KASPI",
+            "bonusType": "RELATIVE",
+            "paymentModes": [
+              "GOLD"
+            ],
+            "displayType": "ABSOLUTE"
+          }
+        ],
+        "loanPicker": {
+          "present": true,
+          "maxInterestFreeDuration": 12
+        },
+        "deliveryDurationFacetValues": {
+          "TOMORROW": 3,
+          "TILL_2_DAYS": 3,
+          "TILL_5_DAYS": 3,
+          "TILL_7_DAYS": 3,
+          "OTHER": 3
+        },
+        "productCardInfo": {
+          "badges": [
+            {
+              "code": "0012_0312_1112_DEF",
+              "imageUrl": "https://mrk.cdn-kaspi.kz/msd/Aimira/2026/FEB/YELLOW_BADGE/card_small/0012/0012_3x.png",
+              "type": "LOAN",
+              "priority": 12,
+              "duration": 12,
+              "displayDuration": 12,
+              "owner": "KASPI"
+            },
+            {
+              "code": "DEFAULT_BONUS_BADGE_FROM_5K",
+              "type": "BONUS",
+              "priority": 3,
+              "bonusInCurrency": 3297,
+              "owner": "KASPI",
+              "bonusType": "RELATIVE",
+              "paymentModes": [
+                "GOLD"
+              ],
+              "displayType": "ABSOLUTE"
+            }
+          ],
+          "bestPrice": 109900,
+          "bonusInCurrency": 3297,
+          "priceMinusBonus": 106603,
+          "merchantId": "30037450"
+        },
+        "brandOfficialPartnerPresent": false
+      }
+    }
+  },
+  "errors": [
+    {
+      "endpoint": "review_summary",
+      "status": 429,
+      "attempts": 1,
+      "detail": "HTTP 429"
+    },
+    {
+      "endpoint": "reviews",
+      "status": 429,
+      "attempts": 1,
+      "detail": "HTTP 429"
+    },
+    {
+      "endpoint": "product_availability",
+      "status": 429,
+      "attempts": 1,
+      "detail": "HTTP 429"
+    },
+    {
+      "endpoint": "offer_availability",
+      "status": 429,
+      "attempts": 1,
+      "detail": "HTTP 429"
+    },
+    {
+      "endpoint": "offers",
+      "status": 429,
+      "attempts": 2,
+      "detail": "POST отклонён с 405. Повтор GET: HTTP 429"
+    },
+    {
+      "endpoint": "page",
+      "status": 429,
+      "attempts": 1,
+      "detail": "HTTP 429"
+    }
+  ]
+}

@@ -1,0 +1,2147 @@
+{
+  "product_id": "145083048",
+  "city_id": "750000000",
+  "url": "https://kaspi.kz/shop/p/aerogril-ww-820s-8-l-chernyi-145083048/?c=750000000",
+  "fetched_at": "2026-11-12T23:19:15+05:00",
+  "StockAvailable": 49,
+  "stock_by_merchant": [
+    {
+      "merchant_id": "30452092",
+      "StockAvailable": 49,
+      "probes": [
+        {
+          "requested_quantity": 50,
+          "status": 200,
+          "attempts": 1,
+          "reported_stock": 49,
+          "detail": null
+        }
+      ],
+      "merchant_name": "SLW NEO",
+      "price": 23750
+    },
+    {
+      "merchant_id": "15427389",
+      "StockAvailable": null,
+      "probes": [
+        {
+          "requested_quantity": 50,
+          "status": 200,
+          "attempts": 1,
+          "reported_stock": null,
+          "detail": null
+        }
+      ],
+      "merchant_name": "White Wave - Denx",
+      "price": 23800
+    },
+    {
+      "merchant_id": "30486998",
+      "StockAvailable": 2,
+      "probes": [
+        {
+          "requested_quantity": 50,
+          "status": 200,
+          "attempts": 1,
+          "reported_stock": 2,
+          "detail": null
+        }
+      ],
+      "merchant_name": "ИП GOAT",
+      "price": 26280
+    },
+    {
+      "merchant_id": "30484536",
+      "StockAvailable": 1,
+      "probes": [
+        {
+          "requested_quantity": 50,
+          "status": 200,
+          "attempts": 1,
+          "reported_stock": 1,
+          "detail": null
+        }
+      ],
+      "merchant_name": "SHAKIRA",
+      "price": 26950
+    },
+    {
+      "merchant_id": "30345282",
+      "StockAvailable": 5,
+      "probes": [
+        {
+          "requested_quantity": 50,
+          "status": 200,
+          "attempts": 1,
+          "reported_stock": 5,
+          "detail": null
+        }
+      ],
+      "merchant_name": "DELOVE",
+      "price": 39900
+    }
+  ],
+  "reviews_by_merchant": [
+    {
+      "merchant_id": "15427389",
+      "merchant_name": "White Wave - Denx",
+      "total": 328,
+      "stars": {
+        "1": 3,
+        "2": 0,
+        "3": 1,
+        "4": 10,
+        "5": 314
+      }
+    },
+    {
+      "merchant_id": "30466560",
+      "merchant_name": "BLUBYEES",
+      "total": 10,
+      "stars": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 9
+      }
+    },
+    {
+      "merchant_id": "30486998",
+      "merchant_name": "ИП GOAT",
+      "total": 3,
+      "stars": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+      }
+    },
+    {
+      "merchant_id": "30398800",
+      "merchant_name": "Sanchik",
+      "total": 2,
+      "stars": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+      }
+    },
+    {
+      "merchant_id": "30470158",
+      "merchant_name": "Akcent",
+      "total": 1,
+      "stars": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+      }
+    },
+    {
+      "merchant_id": "30480409",
+      "merchant_name": "ТОО \"MAVEL KZ\" (МАВЕЛ КЗ)",
+      "total": 1,
+      "stars": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+      }
+    },
+    {
+      "merchant_id": "30452092",
+      "merchant_name": "SLW NEO",
+      "total": 0,
+      "stars": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    {
+      "merchant_id": "30484536",
+      "merchant_name": "SHAKIRA",
+      "total": 0,
+      "stars": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    {
+      "merchant_id": "30345282",
+      "merchant_name": "DELOVE",
+      "total": 0,
+      "stars": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    }
+  ],
+  "review_summary": {
+    "status": 429,
+    "attempts": 1,
+    "data": null
+  },
+  "quantity": {
+    "max_quantity": 3,
+    "increment": 1.0,
+    "unit": "шт",
+    "availability": null,
+    "schema_availability": null,
+    "analytics_stock": null,
+    "StockAvailable": 49,
+    "note": "max_quantity — лимит одного заказа. StockAvailable — остаток склада, который сервер вернул на проверке количества."
+  },
+  "content": {
+    "status": 200,
+    "attempts": 1,
+    "data": {
+      "card": {
+        "id": "145083048",
+        "name": "Аэрогриль WW-820S 8 л черный",
+        "createdTime": "2025-09-02T05:19:28.321+00:00",
+        "shopLink": "/p/aerogril-ww-820s-8-l-chernyi-145083048/",
+        "maxQuantity": 3,
+        "numberOfOrders": null,
+        "unit": {
+          "code": "pieces",
+          "type": "PIECES",
+          "measurementLiteral": "шт",
+          "countingLiteral": "шт",
+          "increment": 1.0
+        },
+        "category": [
+          "Бытовая техника",
+          "Мелкая техника для кухни",
+          "Печи и грили",
+          "Аэрогрили"
+        ],
+        "categoryRu": [
+          "Бытовая техника",
+          "Мелкая техника для кухни",
+          "Печи и грили",
+          "Аэрогрили"
+        ],
+        "categoryId": "09318",
+        "promoConditions": {
+          "brand": "Без бренда",
+          "categoryCodes": [
+            "Air fryers",
+            "Stoves and grills",
+            "Kitchen appliances",
+            "Home equipment",
+            "Categories"
+          ],
+          "baseProductCodes": [
+            "[Master - Air fryers][china-toys]{WW-820S}{1800}{8}{1 шт}{ТЭН}{10}{1 шт}{false}"
+          ],
+          "groups": null,
+          "productSeries": null
+        },
+        "stickers": null,
+        "refundPeriod": 365,
+        "title": "Аэрогриль WW-820S 8 л черный"
+      },
+      "galleryImages": [
+        {
+          "small": "https://resources.cdn-kaspi.kz/img/m/p/p5e/pc5/187311792.?format=gallery-small",
+          "medium": "https://resources.cdn-kaspi.kz/img/m/p/p5e/pc5/187311792.?format=gallery-medium",
+          "large": "https://resources.cdn-kaspi.kz/img/m/p/p5e/pc5/187311792.?format=gallery-large",
+          "location": "p5e/pc5/187311792.",
+          "generated": false,
+          "visualType": null
+        },
+        {
+          "small": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132397.?format=gallery-small",
+          "medium": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132397.?format=gallery-medium",
+          "large": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132397.?format=gallery-large",
+          "location": "p10/pd7/186132397.",
+          "generated": false,
+          "visualType": null
+        },
+        {
+          "small": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132402.?format=gallery-small",
+          "medium": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132402.?format=gallery-medium",
+          "large": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132402.?format=gallery-large",
+          "location": "p10/pd7/186132402.",
+          "generated": false,
+          "visualType": null
+        },
+        {
+          "small": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132395.?format=gallery-small",
+          "medium": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132395.?format=gallery-medium",
+          "large": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132395.?format=gallery-large",
+          "location": "p10/pd7/186132395.",
+          "generated": false,
+          "visualType": null
+        },
+        {
+          "small": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132406.?format=gallery-small",
+          "medium": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132406.?format=gallery-medium",
+          "large": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132406.?format=gallery-large",
+          "location": "p10/pd7/186132406.",
+          "generated": false,
+          "visualType": null
+        },
+        {
+          "small": "https://resources.cdn-kaspi.kz/img/m/p/pb2/p73/187734136.?format=gallery-small",
+          "medium": "https://resources.cdn-kaspi.kz/img/m/p/pb2/p73/187734136.?format=gallery-medium",
+          "large": "https://resources.cdn-kaspi.kz/img/m/p/pb2/p73/187734136.?format=gallery-large",
+          "location": "pb2/p73/187734136.",
+          "generated": false,
+          "visualType": null
+        },
+        {
+          "small": "https://resources.cdn-kaspi.kz/img/m/p/pb2/p73/187734137.?format=gallery-small",
+          "medium": "https://resources.cdn-kaspi.kz/img/m/p/pb2/p73/187734137.?format=gallery-medium",
+          "large": "https://resources.cdn-kaspi.kz/img/m/p/pb2/p73/187734137.?format=gallery-large",
+          "location": "pb2/p73/187734137.",
+          "generated": false,
+          "visualType": null
+        }
+      ],
+      "videoId": "iuVX1Vu2t6o",
+      "description": "<p><strong>Аэрогриль White Wave WW-820S черный</strong> — это <strong>универсальный кухонный прибор</strong>, который позволит вам готовить любимые блюда быстро, вкусно и с минимальным количеством масла. &#x1f525; Благодаря мощности 1800 Вт и объему чаши 8 л, он идеально подходит для приготовления как небольших порций, так и полноценных обедов для всей семьи. </p><p>✨ Особенности:<br />- ⚡ <strong>Мощность 1800 Вт</strong> — обеспечивает быстрый нагрев и равномерное приготовление блюд.<br />- &#x1f372; <strong>Объем чаши 8 л</strong> — достаточно для приготовления больших порций.<br />- &#x1f321;️ <strong>Регулировка температуры (60-200 °С)</strong> — позволяет выбрать оптимальный режим для каждого блюда.<br />- ⏱️ <strong>Таймер до 24 часов</strong> — для удобного и точного контроля времени приготовления.<br />- &#x1f6e1;️ <strong>Антипригарное покрытие чаши</strong> — предотвращает пригорание и облегчает очистку. </p><p>Аэрогриль White Wave WW-820S станет незаменимым помощником на вашей кухне, позволяя вам наслаждаться вкусными и полезными блюдами каждый день. Он идеально подойдет для тех, кто следит за своим здоровьем и предпочитает готовить дома. </p>",
+      "descriptions": [
+        {
+          "title": "Описание",
+          "text": "<p><strong>Аэрогриль White Wave WW-820S черный</strong> — это <strong>универсальный кухонный прибор</strong>, который позволит вам готовить любимые блюда быстро, вкусно и с минимальным количеством масла. &#x1f525; Благодаря мощности 1800 Вт и объему чаши 8 л, он идеально подходит для приготовления как небольших порций, так и полноценных обедов для всей семьи. </p><p>✨ Особенности:<br />- ⚡ <strong>Мощность 1800 Вт</strong> — обеспечивает быстрый нагрев и равномерное приготовление блюд.<br />- &#x1f372; <strong>Объем чаши 8 л</strong> — достаточно для приготовления больших порций.<br />- &#x1f321;️ <strong>Регулировка температуры (60-200 °С)</strong> — позволяет выбрать оптимальный режим для каждого блюда.<br />- ⏱️ <strong>Таймер до 24 часов</strong> — для удобного и точного контроля времени приготовления.<br />- &#x1f6e1;️ <strong>Антипригарное покрытие чаши</strong> — предотвращает пригорание и облегчает очистку. </p><p>Аэрогриль White Wave WW-820S станет незаменимым помощником на вашей кухне, позволяя вам наслаждаться вкусными и полезными блюдами каждый день. Он идеально подойдет для тех, кто следит за своим здоровьем и предпочитает готовить дома. </p>",
+          "aiGenerated": true
+        }
+      ],
+      "specifications": [
+        {
+          "code": "Home equipment*Harakteristiki",
+          "name": "",
+          "features": [
+            {
+              "code": "home equipment*colour",
+              "name": "Цвет",
+              "description": null,
+              "type": "ENUM",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "черный"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 2,
+              "visible": true,
+              "multiValued": true,
+              "important": null,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "home equipment*country",
+              "name": "Страна производства",
+              "description": null,
+              "type": "ENUM",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "Китай"
+                }
+              ],
+              "mandatory": false,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 4,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": 1,
+              "generated": false
+            }
+          ],
+          "position": 20
+        },
+        {
+          "code": "9921*Obsie harakteristiki",
+          "name": "Общие характеристики",
+          "features": [
+            {
+              "code": "air fryers*power",
+              "name": "Мощность",
+              "description": null,
+              "type": "NUMBER",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "1800 Вт"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 1,
+              "visible": true,
+              "multiValued": false,
+              "important": null,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "air fryers*body material",
+              "name": "Материал корпуса",
+              "description": null,
+              "type": "ENUM",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "комбинированный"
+                },
+                {
+                  "value": "пластик"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 2,
+              "visible": true,
+              "multiValued": true,
+              "important": null,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "air fryers*working surface material",
+              "name": "Материал рабочей поверхности",
+              "description": null,
+              "type": "ENUM",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "нержавеющая сталь"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 3,
+              "visible": true,
+              "multiValued": true,
+              "important": null,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "air fryers*control",
+              "name": "Управление",
+              "description": null,
+              "type": "ENUM",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "сенсорное"
+                },
+                {
+                  "value": "электронное"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 4,
+              "visible": true,
+              "multiValued": true,
+              "important": null,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "air fryers*components",
+              "name": "Комплектация",
+              "description": null,
+              "type": "ENUM",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "инструкция"
+                },
+                {
+                  "value": "крышка"
+                },
+                {
+                  "value": "съемная корзина"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 6,
+              "visible": true,
+              "multiValued": true,
+              "important": null,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "air fryers*bowl volume",
+              "name": "Объем чаши",
+              "description": null,
+              "type": "NUMBER",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "8 л"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 11,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": 1,
+              "generated": false
+            },
+            {
+              "code": "air fryers*number of bowls",
+              "name": "Количество зон приготовления",
+              "description": null,
+              "type": "ENUM",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "1 шт"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 12,
+              "visible": true,
+              "multiValued": false,
+              "important": null,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "air fryers*number of automatic programs",
+              "name": "Количество автоматических программ",
+              "description": null,
+              "type": "NUMBER",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "10 шт"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 13,
+              "visible": true,
+              "multiValued": false,
+              "important": null,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "air fryers*minimum heating temperature",
+              "name": "Минимальная температура нагрева",
+              "description": null,
+              "type": "NUMBER",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "60 °С"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 14,
+              "visible": true,
+              "multiValued": false,
+              "important": null,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "air fryers*maximum heating temperature",
+              "name": "Максимальная температура нагрева",
+              "description": null,
+              "type": "NUMBER",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "200 °С"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 15,
+              "visible": true,
+              "multiValued": false,
+              "important": null,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "air fryers*heating element",
+              "name": "Нагревательный элемент",
+              "description": null,
+              "type": "ENUM",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "ТЭН"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 16,
+              "visible": true,
+              "multiValued": false,
+              "important": null,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "air fryers*number of heating elements",
+              "name": "Количество нагревательных элементов",
+              "description": null,
+              "type": "ENUM",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "1 шт"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 17,
+              "visible": true,
+              "multiValued": false,
+              "important": null,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "air fryers*size",
+              "name": "Размеры",
+              "description": null,
+              "type": "STRING",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "30x27x26 см"
+                }
+              ],
+              "mandatory": false,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 20,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": 1,
+              "generated": false
+            },
+            {
+              "code": "air fryers*weight",
+              "name": "Вес",
+              "description": null,
+              "type": "NUMBER",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "5.3 кг"
+                }
+              ],
+              "mandatory": false,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 21,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": 1,
+              "generated": false
+            }
+          ],
+          "position": 1001
+        },
+        {
+          "code": "9921*Dopolnitelno",
+          "name": "Дополнительно",
+          "features": [
+            {
+              "code": "air fryers*non-stick coating",
+              "name": "Антипригарное покрытие чаши",
+              "description": null,
+              "type": null,
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "true"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 1,
+              "visible": true,
+              "multiValued": false,
+              "important": null,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "air fryers*smartphone control",
+              "name": "Управление со смартфона",
+              "description": null,
+              "type": null,
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "false"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 2,
+              "visible": true,
+              "multiValued": false,
+              "important": null,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "air fryers*adjusting the cooking time",
+              "name": "Регулировка времени приготовления",
+              "description": null,
+              "type": null,
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "true"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 3,
+              "visible": true,
+              "multiValued": false,
+              "important": null,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "air fryers*adjusting the cooking temperature",
+              "name": "Регулировка температуры приготовления",
+              "description": null,
+              "type": null,
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "true"
+                }
+              ],
+              "mandatory": true,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 4,
+              "visible": true,
+              "multiValued": false,
+              "important": null,
+              "importanceScore": null,
+              "generated": false
+            },
+            {
+              "code": "air fryers*timer",
+              "name": "Таймер",
+              "description": null,
+              "type": null,
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "true"
+                }
+              ],
+              "mandatory": false,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 5,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": 1,
+              "generated": false
+            },
+            {
+              "code": "air fryers*maximum time for setting the timer",
+              "name": "Максимальное время установки таймера",
+              "description": null,
+              "type": "NUMBER",
+              "range": null,
+              "comparable": null,
+              "featureUnit": null,
+              "featureValues": [
+                {
+                  "value": "24 ч"
+                }
+              ],
+              "mandatory": false,
+              "keyAttribute": false,
+              "merchantVisible": null,
+              "position": 6,
+              "visible": true,
+              "multiValued": false,
+              "important": true,
+              "importanceScore": 1,
+              "generated": false
+            }
+          ],
+          "position": 1002
+        }
+      ],
+      "weight": 6.3,
+      "masterCategoryCode": "Master - Air fryers",
+      "masterCategoryName": "Аэрогрили",
+      "restrictedAge": 0,
+      "sizeTableCode": null,
+      "hasVariants": false,
+      "childrenContent": false,
+      "certificate": null,
+      "carParts": false,
+      "videos": [],
+      "teasers": [],
+      "richContent": null,
+      "version": "V1",
+      "aiGenerated": false
+    }
+  },
+  "limits": {
+    "status": 200,
+    "attempts": 1,
+    "data": {
+      "productLimit": {
+        "145083048": {
+          "card": {
+            "id": "145083048",
+            "title": "Аэрогриль WW-820S 8 л черный",
+            "name": "Аэрогриль WW-820S 8 л черный",
+            "names": {
+              "ru": "Аэрогриль WW-820S 8 л черный",
+              "kz": "Аэрогриль WW-820S 8 л қара"
+            },
+            "shopLink": "/p/aerogril-ww-820s-8-l-chernyi-145083048/",
+            "maxQuantity": 3,
+            "unit": {
+              "code": "pieces",
+              "type": "PIECES",
+              "measurementLiteral": "шт",
+              "countingLiteral": "шт",
+              "increment": 1.0
+            },
+            "category": [
+              "Бытовая техника",
+              "Мелкая техника для кухни",
+              "Печи и грили",
+              "Аэрогрили"
+            ],
+            "categoryRu": [
+              "Бытовая техника",
+              "Мелкая техника для кухни",
+              "Печи и грили",
+              "Аэрогрили"
+            ],
+            "categoryId": "09318",
+            "verticalCategoryCode": "Home equipment",
+            "promoConditions": {
+              "brand": "Без бренда",
+              "categoryCodes": [
+                "Air fryers",
+                "Stoves and grills",
+                "Kitchen appliances",
+                "Home equipment",
+                "Categories"
+              ],
+              "baseProductCodes": [
+                "[Master - Air fryers][china-toys]{WW-820S}{1800}{8}{1 шт}{ТЭН}{10}{1 шт}{false}"
+              ],
+              "groups": null,
+              "productSeries": null
+            },
+            "stickers": [],
+            "refundPeriod": 365,
+            "certificate": null,
+            "carParts": false,
+            "createdAt": "2025-09-02T05:19:28.321+00:00",
+            "clothesShoesCollections": null,
+            "quantityInPackage": null,
+            "settings": {}
+          },
+          "galleryImages": [
+            {
+              "small": "https://resources.cdn-kaspi.kz/img/m/p/p5e/pc5/187311792.?format=gallery-small",
+              "medium": "https://resources.cdn-kaspi.kz/img/m/p/p5e/pc5/187311792.?format=gallery-medium",
+              "large": "https://resources.cdn-kaspi.kz/img/m/p/p5e/pc5/187311792.?format=gallery-large",
+              "location": "p5e/pc5/187311792.",
+              "generated": false,
+              "visualType": null
+            },
+            {
+              "small": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132397.?format=gallery-small",
+              "medium": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132397.?format=gallery-medium",
+              "large": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132397.?format=gallery-large",
+              "location": "p10/pd7/186132397.",
+              "generated": false,
+              "visualType": null
+            },
+            {
+              "small": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132402.?format=gallery-small",
+              "medium": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132402.?format=gallery-medium",
+              "large": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132402.?format=gallery-large",
+              "location": "p10/pd7/186132402.",
+              "generated": false,
+              "visualType": null
+            },
+            {
+              "small": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132395.?format=gallery-small",
+              "medium": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132395.?format=gallery-medium",
+              "large": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132395.?format=gallery-large",
+              "location": "p10/pd7/186132395.",
+              "generated": false,
+              "visualType": null
+            },
+            {
+              "small": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132406.?format=gallery-small",
+              "medium": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132406.?format=gallery-medium",
+              "large": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132406.?format=gallery-large",
+              "location": "p10/pd7/186132406.",
+              "generated": false,
+              "visualType": null
+            },
+            {
+              "small": "https://resources.cdn-kaspi.kz/img/m/p/pb2/p73/187734136.?format=gallery-small",
+              "medium": "https://resources.cdn-kaspi.kz/img/m/p/pb2/p73/187734136.?format=gallery-medium",
+              "large": "https://resources.cdn-kaspi.kz/img/m/p/pb2/p73/187734136.?format=gallery-large",
+              "location": "pb2/p73/187734136.",
+              "generated": false,
+              "visualType": null
+            },
+            {
+              "small": "https://resources.cdn-kaspi.kz/img/m/p/pb2/p73/187734137.?format=gallery-small",
+              "medium": "https://resources.cdn-kaspi.kz/img/m/p/pb2/p73/187734137.?format=gallery-medium",
+              "large": "https://resources.cdn-kaspi.kz/img/m/p/pb2/p73/187734137.?format=gallery-large",
+              "location": "pb2/p73/187734137.",
+              "generated": false,
+              "visualType": null
+            }
+          ],
+          "weight": 6.3,
+          "masterCategoryCode": "Master - Air fryers",
+          "category": {
+            "code": "Master - Air fryers",
+            "rfoId": "SMALL_HOME_APPLIANCES",
+            "suggestionId": "30262",
+            "communicationDevice": false,
+            "names": {
+              "ru": "Аэрогрили",
+              "en": "Аэрогрили",
+              "kz": "Ауа гриль"
+            }
+          },
+          "brand": {
+            "code": "china-toys",
+            "name": "Без бренда"
+          }
+        }
+      }
+    }
+  },
+  "reviews": {
+    "status": 429,
+    "attempts": 1,
+    "data": null
+  },
+  "product_availability": {
+    "status": 429,
+    "attempts": 1,
+    "data": null
+  },
+  "offer_availability": {
+    "status": 429,
+    "attempts": 1,
+    "data": null
+  },
+  "offers": {
+    "status": 429,
+    "attempts": 2,
+    "data": null
+  },
+  "page": {
+    "status": 429,
+    "attempts": 1,
+    "data": null
+  },
+  "item": {
+    "status": 200,
+    "attempts": 1,
+    "data": {
+      "product": {
+        "card": {
+          "id": "145083048",
+          "name": "Аэрогриль WW-820S 8 л черный",
+          "createdTime": "2025-09-02T05:19:28.321+00:00",
+          "shopLink": "/p/aerogril-ww-820s-8-l-chernyi-145083048/",
+          "maxQuantity": 3,
+          "numberOfOrders": null,
+          "unit": {
+            "code": "pieces",
+            "type": "PIECES",
+            "measurementLiteral": "шт",
+            "countingLiteral": "шт",
+            "increment": 1
+          },
+          "category": [
+            "Бытовая техника",
+            "Мелкая техника для кухни",
+            "Печи и грили",
+            "Аэрогрили"
+          ],
+          "categoryRu": [
+            "Бытовая техника",
+            "Мелкая техника для кухни",
+            "Печи и грили",
+            "Аэрогрили"
+          ],
+          "categoryId": "09318",
+          "promoConditions": {
+            "brand": "Без бренда",
+            "categoryCodes": [
+              "Air fryers",
+              "Stoves and grills",
+              "Kitchen appliances",
+              "Home equipment",
+              "Categories"
+            ],
+            "baseProductCodes": [
+              "[Master - Air fryers][china-toys]{WW-820S}{1800}{8}{1 шт}{ТЭН}{10}{1 шт}{false}"
+            ],
+            "groups": null,
+            "productSeries": []
+          },
+          "stickers": null,
+          "refundPeriod": 365,
+          "title": "Аэрогриль WW-820S 8 л черный",
+          "discount": 12,
+          "price": 23750,
+          "unitPriceBeforeDiscount": 26945,
+          "rating": 4.9,
+          "reviewsQuantity": 277
+        },
+        "galleryImages": [
+          {
+            "small": "https://resources.cdn-kaspi.kz/img/m/p/p5e/pc5/187311792.?format=gallery-small",
+            "medium": "https://resources.cdn-kaspi.kz/img/m/p/p5e/pc5/187311792.?format=gallery-medium",
+            "large": "https://resources.cdn-kaspi.kz/img/m/p/p5e/pc5/187311792.?format=gallery-large",
+            "location": "p5e/pc5/187311792.",
+            "generated": false,
+            "visualType": null
+          },
+          {
+            "small": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132397.?format=gallery-small",
+            "medium": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132397.?format=gallery-medium",
+            "large": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132397.?format=gallery-large",
+            "location": "p10/pd7/186132397.",
+            "generated": false,
+            "visualType": null
+          },
+          {
+            "small": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132402.?format=gallery-small",
+            "medium": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132402.?format=gallery-medium",
+            "large": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132402.?format=gallery-large",
+            "location": "p10/pd7/186132402.",
+            "generated": false,
+            "visualType": null
+          },
+          {
+            "small": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132395.?format=gallery-small",
+            "medium": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132395.?format=gallery-medium",
+            "large": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132395.?format=gallery-large",
+            "location": "p10/pd7/186132395.",
+            "generated": false,
+            "visualType": null
+          },
+          {
+            "small": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132406.?format=gallery-small",
+            "medium": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132406.?format=gallery-medium",
+            "large": "https://resources.cdn-kaspi.kz/img/m/p/p10/pd7/186132406.?format=gallery-large",
+            "location": "p10/pd7/186132406.",
+            "generated": false,
+            "visualType": null
+          },
+          {
+            "small": "https://resources.cdn-kaspi.kz/img/m/p/pb2/p73/187734136.?format=gallery-small",
+            "medium": "https://resources.cdn-kaspi.kz/img/m/p/pb2/p73/187734136.?format=gallery-medium",
+            "large": "https://resources.cdn-kaspi.kz/img/m/p/pb2/p73/187734136.?format=gallery-large",
+            "location": "pb2/p73/187734136.",
+            "generated": false,
+            "visualType": null
+          },
+          {
+            "small": "https://resources.cdn-kaspi.kz/img/m/p/pb2/p73/187734137.?format=gallery-small",
+            "medium": "https://resources.cdn-kaspi.kz/img/m/p/pb2/p73/187734137.?format=gallery-medium",
+            "large": "https://resources.cdn-kaspi.kz/img/m/p/pb2/p73/187734137.?format=gallery-large",
+            "location": "pb2/p73/187734137.",
+            "generated": false,
+            "visualType": null
+          }
+        ],
+        "videoId": "iuVX1Vu2t6o",
+        "description": "<p><strong>Аэрогриль White Wave WW-820S черный</strong> — это <strong>универсальный кухонный прибор</strong>, который позволит вам готовить любимые блюда быстро, вкусно и с минимальным количеством масла. &#x1f525; Благодаря мощности 1800 Вт и объему чаши 8 л, он идеально подходит для приготовления как небольших порций, так и полноценных обедов для всей семьи. </p><p>✨ Особенности:<br />- ⚡ <strong>Мощность 1800 Вт</strong> — обеспечивает быстрый нагрев и равномерное приготовление блюд.<br />- &#x1f372; <strong>Объем чаши 8 л</strong> — достаточно для приготовления больших порций.<br />- &#x1f321;️ <strong>Регулировка температуры (60-200 °С)</strong> — позволяет выбрать оптимальный режим для каждого блюда.<br />- ⏱️ <strong>Таймер до 24 часов</strong> — для удобного и точного контроля времени приготовления.<br />- &#x1f6e1;️ <strong>Антипригарное покрытие чаши</strong> — предотвращает пригорание и облегчает очистку. </p><p>Аэрогриль White Wave WW-820S станет незаменимым помощником на вашей кухне, позволяя вам наслаждаться вкусными и полезными блюдами каждый день. Он идеально подойдет для тех, кто следит за своим здоровьем и предпочитает готовить дома. </p>",
+        "descriptions": [
+          {
+            "title": "Описание",
+            "text": "<p><strong>Аэрогриль White Wave WW-820S черный</strong> — это <strong>универсальный кухонный прибор</strong>, который позволит вам готовить любимые блюда быстро, вкусно и с минимальным количеством масла. &#x1f525; Благодаря мощности 1800 Вт и объему чаши 8 л, он идеально подходит для приготовления как небольших порций, так и полноценных обедов для всей семьи. </p><p>✨ Особенности:<br />- ⚡ <strong>Мощность 1800 Вт</strong> — обеспечивает быстрый нагрев и равномерное приготовление блюд.<br />- &#x1f372; <strong>Объем чаши 8 л</strong> — достаточно для приготовления больших порций.<br />- &#x1f321;️ <strong>Регулировка температуры (60-200 °С)</strong> — позволяет выбрать оптимальный режим для каждого блюда.<br />- ⏱️ <strong>Таймер до 24 часов</strong> — для удобного и точного контроля времени приготовления.<br />- &#x1f6e1;️ <strong>Антипригарное покрытие чаши</strong> — предотвращает пригорание и облегчает очистку. </p><p>Аэрогриль White Wave WW-820S станет незаменимым помощником на вашей кухне, позволяя вам наслаждаться вкусными и полезными блюдами каждый день. Он идеально подойдет для тех, кто следит за своим здоровьем и предпочитает готовить дома. </p>",
+            "aiGenerated": true
+          }
+        ],
+        "specifications": [
+          {
+            "code": "Home equipment*Harakteristiki",
+            "name": "",
+            "features": [
+              {
+                "code": "home equipment*colour",
+                "name": "Цвет",
+                "description": null,
+                "type": "ENUM",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "черный"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 2,
+                "visible": true,
+                "multiValued": true,
+                "important": null,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "home equipment*country",
+                "name": "Страна производства",
+                "description": null,
+                "type": "ENUM",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "Китай"
+                  }
+                ],
+                "mandatory": false,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 4,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": 1,
+                "generated": false
+              }
+            ],
+            "position": 20
+          },
+          {
+            "code": "9921*Obsie harakteristiki",
+            "name": "Общие характеристики",
+            "features": [
+              {
+                "code": "air fryers*power",
+                "name": "Мощность",
+                "description": null,
+                "type": "NUMBER",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "1800 Вт"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 1,
+                "visible": true,
+                "multiValued": false,
+                "important": null,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "air fryers*body material",
+                "name": "Материал корпуса",
+                "description": null,
+                "type": "ENUM",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "комбинированный"
+                  },
+                  {
+                    "value": "пластик"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 2,
+                "visible": true,
+                "multiValued": true,
+                "important": null,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "air fryers*working surface material",
+                "name": "Материал рабочей поверхности",
+                "description": null,
+                "type": "ENUM",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "нержавеющая сталь"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 3,
+                "visible": true,
+                "multiValued": true,
+                "important": null,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "air fryers*control",
+                "name": "Управление",
+                "description": null,
+                "type": "ENUM",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "сенсорное"
+                  },
+                  {
+                    "value": "электронное"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 4,
+                "visible": true,
+                "multiValued": true,
+                "important": null,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "air fryers*components",
+                "name": "Комплектация",
+                "description": null,
+                "type": "ENUM",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "инструкция"
+                  },
+                  {
+                    "value": "крышка"
+                  },
+                  {
+                    "value": "съемная корзина"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 6,
+                "visible": true,
+                "multiValued": true,
+                "important": null,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "air fryers*bowl volume",
+                "name": "Объем чаши",
+                "description": null,
+                "type": "NUMBER",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "8 л"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 11,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": 1,
+                "generated": false
+              },
+              {
+                "code": "air fryers*number of bowls",
+                "name": "Количество зон приготовления",
+                "description": null,
+                "type": "ENUM",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "1 шт"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 12,
+                "visible": true,
+                "multiValued": false,
+                "important": null,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "air fryers*number of automatic programs",
+                "name": "Количество автоматических программ",
+                "description": null,
+                "type": "NUMBER",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "10 шт"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 13,
+                "visible": true,
+                "multiValued": false,
+                "important": null,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "air fryers*minimum heating temperature",
+                "name": "Минимальная температура нагрева",
+                "description": null,
+                "type": "NUMBER",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "60 °С"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 14,
+                "visible": true,
+                "multiValued": false,
+                "important": null,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "air fryers*maximum heating temperature",
+                "name": "Максимальная температура нагрева",
+                "description": null,
+                "type": "NUMBER",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "200 °С"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 15,
+                "visible": true,
+                "multiValued": false,
+                "important": null,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "air fryers*heating element",
+                "name": "Нагревательный элемент",
+                "description": null,
+                "type": "ENUM",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "ТЭН"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 16,
+                "visible": true,
+                "multiValued": false,
+                "important": null,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "air fryers*number of heating elements",
+                "name": "Количество нагревательных элементов",
+                "description": null,
+                "type": "ENUM",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "1 шт"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 17,
+                "visible": true,
+                "multiValued": false,
+                "important": null,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "air fryers*size",
+                "name": "Размеры",
+                "description": null,
+                "type": "STRING",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "30x27x26 см"
+                  }
+                ],
+                "mandatory": false,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 20,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": 1,
+                "generated": false
+              },
+              {
+                "code": "air fryers*weight",
+                "name": "Вес",
+                "description": null,
+                "type": "NUMBER",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "5.3 кг"
+                  }
+                ],
+                "mandatory": false,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 21,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": 1,
+                "generated": false
+              }
+            ],
+            "position": 1001
+          },
+          {
+            "code": "9921*Dopolnitelno",
+            "name": "Дополнительно",
+            "features": [
+              {
+                "code": "air fryers*non-stick coating",
+                "name": "Антипригарное покрытие чаши",
+                "description": null,
+                "type": null,
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "true"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 1,
+                "visible": true,
+                "multiValued": false,
+                "important": null,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "air fryers*smartphone control",
+                "name": "Управление со смартфона",
+                "description": null,
+                "type": null,
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "false"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 2,
+                "visible": true,
+                "multiValued": false,
+                "important": null,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "air fryers*adjusting the cooking time",
+                "name": "Регулировка времени приготовления",
+                "description": null,
+                "type": null,
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "true"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 3,
+                "visible": true,
+                "multiValued": false,
+                "important": null,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "air fryers*adjusting the cooking temperature",
+                "name": "Регулировка температуры приготовления",
+                "description": null,
+                "type": null,
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "true"
+                  }
+                ],
+                "mandatory": true,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 4,
+                "visible": true,
+                "multiValued": false,
+                "important": null,
+                "importanceScore": null,
+                "generated": false
+              },
+              {
+                "code": "air fryers*timer",
+                "name": "Таймер",
+                "description": null,
+                "type": null,
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "true"
+                  }
+                ],
+                "mandatory": false,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 5,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": 1,
+                "generated": false
+              },
+              {
+                "code": "air fryers*maximum time for setting the timer",
+                "name": "Максимальное время установки таймера",
+                "description": null,
+                "type": "NUMBER",
+                "range": null,
+                "comparable": null,
+                "featureUnit": null,
+                "featureValues": [
+                  {
+                    "value": "24 ч"
+                  }
+                ],
+                "mandatory": false,
+                "keyAttribute": false,
+                "merchantVisible": null,
+                "position": 6,
+                "visible": true,
+                "multiValued": false,
+                "important": true,
+                "importanceScore": 1,
+                "generated": false
+              }
+            ],
+            "position": 1002
+          }
+        ],
+        "weight": 6.3,
+        "masterCategoryCode": "Master - Air fryers",
+        "masterCategoryName": "Аэрогрили",
+        "restrictedAge": 0,
+        "sizeTableCode": null,
+        "hasVariants": false,
+        "childrenContent": false,
+        "certificate": null,
+        "carParts": false,
+        "richContent": null,
+        "teasers": [],
+        "videos": [],
+        "aiGenerated": true,
+        "status": "ACTUAL"
+      },
+      "offers": {
+        "offers": [
+          {
+            "masterSku": "145083048",
+            "masterCategory": "Master - Air fryers",
+            "merchantId": "30452092",
+            "merchantName": "SLW NEO",
+            "merchantSku": "145083048_773032763",
+            "title": "Аэрогриль WW-820S 8 л черный",
+            "price": 23750,
+            "delivery": "2026-11-14T18:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "pickupSteps": {
+              "P": "2026-11-12T19:00:00.000+00:00",
+              "MA": "2026-11-12T19:00:00.000+00:00"
+            },
+            "kdPickupDate": "2026-11-13T15:00:00.000+00:00",
+            "availabilityDate": "2026-11-12T18:19:09.910+00:00",
+            "pickup": "2026-11-12T19:00:00.000+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+              "30452092_PP1"
+            ],
+            "pointsWithAvailability": [
+              "30452092_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "30452092_PP1",
+            "deliveryType": "TO_DOOR",
+            "deliveryDuration": "TILL_2_DAYS",
+            "badges": [
+              {
+                "code": "0012_0312_1112_DEF",
+                "imageUrl": "https://mrk.cdn-kaspi.kz/msd/Aimira/2026/FEB/YELLOW_BADGE/card_small/0012/0012_3x.png",
+                "type": "LOAN",
+                "priority": 12,
+                "duration": 12,
+                "displayDuration": 12,
+                "owner": "KASPI"
+              }
+            ],
+            "deliveryOptions": {
+              "TO_DOOR": {
+                "delivery": "2026-11-14T18:00:00.000+00:00",
+                "deliveryDays": 1,
+                "kdPickupDate": "2026-11-13T15:00:00.000+00:00",
+                "deliveryType": "TO_DOOR",
+                "locatedInPoint": "30452092_PP1",
+                "kaspiDelivery": true,
+                "deliveryCost": 0,
+                "deliveryThreshold": 5000,
+                "interCity": false
+              },
+              "PICKUP": {
+                "delivery": "2026-11-12T19:00:00.000+00:00",
+                "deliveryDays": 0,
+                "deliveryType": "PICKUP",
+                "deliverySteps": {
+                  "P": "2026-11-12T19:00:00.000+00:00",
+                  "MA": "2026-11-12T19:00:00.000+00:00"
+                },
+                "interCity": false
+              }
+            }
+          },
+          {
+            "masterSku": "145083048",
+            "masterCategory": "Master - Air fryers",
+            "merchantId": "15427389",
+            "merchantName": "White Wave - Denx",
+            "merchantSku": "757519986",
+            "merchantReviewsQuantity": 4444,
+            "merchantRating": 4.9,
+            "title": "Аэрогриль White Wave 8 литров WW‑820S",
+            "price": 23800,
+            "delivery": "2026-11-13T07:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {
+              "MA": "2026-11-12T19:00:00.000+00:00",
+              "D": "2026-11-12T19:00:00.000+00:00"
+            },
+            "pickupSteps": {
+              "P": "2026-11-12T19:00:00.000+00:00",
+              "MA": "2026-11-12T19:00:00.000+00:00"
+            },
+            "kdPickupDate": "2026-11-13T03:55:00.000+00:00",
+            "availabilityDate": "2026-11-12T19:00:00.000+00:00",
+            "pickup": "2026-11-12T19:00:00.000+00:00",
+            "kaspiDelivery": false,
+            "kdPoints": [
+              "15427389_PP1"
+            ],
+            "pointsWithAvailability": [
+              "15427389_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "15427389_PP1",
+            "deliveryType": "EXPRESS",
+            "deliveryDuration": "TOMORROW",
+            "badges": [
+              {
+                "code": "0012_0312_1112_DEF",
+                "imageUrl": "https://mrk.cdn-kaspi.kz/msd/Aimira/2026/FEB/YELLOW_BADGE/card_small/0012/0012_3x.png",
+                "type": "LOAN",
+                "priority": 12,
+                "duration": 12,
+                "displayDuration": 12,
+                "owner": "KASPI"
+              }
+            ],
+            "deliveryOptions": {
+              "TO_DOOR": {
+                "delivery": "2026-11-12T19:00:00.000+00:00",
+                "deliveryDays": 0,
+                "deliveryType": "TO_DOOR",
+                "locatedInPoint": "15427389_PP1",
+                "kaspiDelivery": false,
+                "deliverySteps": {
+                  "MA": "2026-11-12T19:00:00.000+00:00",
+                  "D": "2026-11-12T19:00:00.000+00:00"
+                },
+                "interCity": false
+              },
+              "PICKUP": {
+                "delivery": "2026-11-12T19:00:00.000+00:00",
+                "deliveryDays": 0,
+                "deliveryType": "PICKUP",
+                "deliverySteps": {
+                  "P": "2026-11-12T19:00:00.000+00:00",
+                  "MA": "2026-11-12T19:00:00.000+00:00"
+                },
+                "interCity": false
+              },
+              "EXPRESS": {
+                "delivery": "2026-11-13T07:00:00.000+00:00",
+                "deliveryDays": 0,
+                "kdPickupDate": "2026-11-13T03:55:00.000+00:00",
+                "deliveryType": "EXPRESS",
+                "locatedInPoint": "15427389_PP1",
+                "kaspiDelivery": true,
+                "cost": 995,
+                "deliveryCost": 995,
+                "deliveryThreshold": 999999999,
+                "interCity": false,
+                "description": {
+                  "deliveryDurationInHours": 3,
+                  "deliverySlotsExists": true,
+                  "deferredExpress": true,
+                  "deferredExpressDate": "2026-11-13T07:00:00Z"
+                }
+              }
+            }
+          },
+          {
+            "masterSku": "145083048",
+            "masterCategory": "Master - Air fryers",
+            "merchantId": "30486998",
+            "merchantName": "ИП GOAT",
+            "merchantSku": "145083048_981865420",
+            "title": "Аэрогриль WW-820S 8 л черный",
+            "price": 26280,
+            "delivery": "2026-11-14T18:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "kdPickupDate": "2026-11-13T15:00:00.000+00:00",
+            "availabilityDate": "2026-11-12T18:19:09.911+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+              "30486998_PP1"
+            ],
+            "warehousesWithAvailability": [
+              "30486998_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "30486998_PP1",
+            "deliveryType": "TO_DOOR",
+            "deliveryDuration": "TILL_2_DAYS",
+            "badges": [
+              {
+                "code": "0012_0312_1112_DEF",
+                "imageUrl": "https://mrk.cdn-kaspi.kz/msd/Aimira/2026/FEB/YELLOW_BADGE/card_small/0012/0012_3x.png",
+                "type": "LOAN",
+                "priority": 12,
+                "duration": 12,
+                "displayDuration": 12,
+                "owner": "KASPI"
+              }
+            ],
+            "deliveryOptions": {
+              "TO_DOOR": {
+                "delivery": "2026-11-14T18:00:00.000+00:00",
+                "deliveryDays": 1,
+                "kdPickupDate": "2026-11-13T15:00:00.000+00:00",
+                "deliveryType": "TO_DOOR",
+                "locatedInPoint": "30486998_PP1",
+                "kaspiDelivery": true,
+                "deliveryCost": 0,
+                "deliveryThreshold": 5000,
+                "interCity": false
+              }
+            }
+          },
+          {
+            "masterSku": "145083048",
+            "masterCategory": "Master - Air fryers",
+            "merchantId": "30484536",
+            "merchantName": "SHAKIRA",
+            "merchantSku": "145083048_350912938",
+            "title": "Аэрогриль WW-820S 8 л черный",
+            "price": 26950,
+            "delivery": "2026-11-14T18:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "kdPickupDate": "2026-11-13T15:00:00.000+00:00",
+            "availabilityDate": "2026-11-12T18:19:09.911+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+              "30484536_PP1"
+            ],
+            "warehousesWithAvailability": [
+              "30484536_PP1"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "30484536_PP1",
+            "deliveryType": "TO_DOOR",
+            "deliveryDuration": "TILL_2_DAYS",
+            "badges": [
+              {
+                "code": "0012_0312_1112_DEF",
+                "imageUrl": "https://mrk.cdn-kaspi.kz/msd/Aimira/2026/FEB/YELLOW_BADGE/card_small/0012/0012_3x.png",
+                "type": "LOAN",
+                "priority": 12,
+                "duration": 12,
+                "displayDuration": 12,
+                "owner": "KASPI"
+              }
+            ],
+            "deliveryOptions": {
+              "TO_DOOR": {
+                "delivery": "2026-11-14T18:00:00.000+00:00",
+                "deliveryDays": 1,
+                "kdPickupDate": "2026-11-13T15:00:00.000+00:00",
+                "deliveryType": "TO_DOOR",
+                "locatedInPoint": "30484536_PP1",
+                "kaspiDelivery": true,
+                "deliveryCost": 0,
+                "deliveryThreshold": 5000,
+                "interCity": false
+              }
+            }
+          },
+          {
+            "masterSku": "145083048",
+            "masterCategory": "Master - Air fryers",
+            "merchantId": "30345282",
+            "merchantName": "DELOVE",
+            "merchantSku": "145083048_089503536",
+            "merchantReviewsQuantity": 201,
+            "merchantRating": 4.8,
+            "title": "Аэрогриль WW-820S 8 л черный",
+            "price": 39900,
+            "delivery": "2026-11-16T18:00:00.000+00:00",
+            "deliveryMovedBySlot": false,
+            "deliverySteps": {},
+            "kdPickupDate": "2026-11-13T15:00:00.000+00:00",
+            "availabilityDate": "2026-11-12T18:19:09.911+00:00",
+            "kaspiDelivery": true,
+            "kdPoints": [
+              "30345282_PP5"
+            ],
+            "preorder": 0,
+            "locatedInPoint": "30345282_PP5",
+            "deliveryType": "TO_DOOR",
+            "deliveryDuration": "TILL_5_DAYS",
+            "badges": [
+              {
+                "code": "0012_0312_1112_DEF",
+                "imageUrl": "https://mrk.cdn-kaspi.kz/msd/Aimira/2026/FEB/YELLOW_BADGE/card_small/0012/0012_3x.png",
+                "type": "LOAN",
+                "priority": 12,
+                "duration": 12,
+                "displayDuration": 12,
+                "owner": "KASPI"
+              }
+            ],
+            "deliveryOptions": {
+              "TO_DOOR": {
+                "delivery": "2026-11-16T18:00:00.000+00:00",
+                "deliveryDays": 3,
+                "kdPickupDate": "2026-11-13T15:00:00.000+00:00",
+                "deliveryType": "TO_DOOR",
+                "locatedInPoint": "30345282_PP5",
+                "kaspiDelivery": true,
+                "deliveryCost": 0,
+                "deliveryThreshold": 5000,
+                "interCity": true
+              }
+            }
+          }
+        ],
+        "total": 5,
+        "offersCount": 5,
+        "badges": [
+          {
+            "code": "0012_0312_1112_DEF",
+            "imageUrl": "https://mrk.cdn-kaspi.kz/msd/Aimira/2026/FEB/YELLOW_BADGE/card_small/0012/0012_3x.png",
+            "type": "LOAN",
+            "priority": 12,
+            "duration": 12,
+            "displayDuration": 12,
+            "owner": "KASPI"
+          }
+        ],
+        "loanPicker": {
+          "present": true,
+          "maxInterestFreeDuration": 12
+        },
+        "deliveryDurationFacetValues": {
+          "TOMORROW": 1,
+          "TILL_2_DAYS": 4,
+          "TILL_5_DAYS": 5,
+          "TILL_7_DAYS": 5,
+          "OTHER": 5
+        },
+        "productCardInfo": {
+          "badges": [
+            {
+              "code": "0012_0312_1112_DEF",
+              "imageUrl": "https://mrk.cdn-kaspi.kz/msd/Aimira/2026/FEB/YELLOW_BADGE/card_small/0012/0012_3x.png",
+              "type": "LOAN",
+              "priority": 12,
+              "duration": 12,
+              "displayDuration": 12,
+              "owner": "KASPI"
+            }
+          ],
+          "bestPrice": 23750,
+          "merchantId": "30452092"
+        },
+        "brandOfficialPartnerPresent": false
+      }
+    }
+  },
+  "errors": [
+    {
+      "endpoint": "review_summary",
+      "status": 429,
+      "attempts": 1,
+      "detail": "HTTP 429"
+    },
+    {
+      "endpoint": "reviews",
+      "status": 429,
+      "attempts": 1,
+      "detail": "HTTP 429"
+    },
+    {
+      "endpoint": "product_availability",
+      "status": 429,
+      "attempts": 1,
+      "detail": "HTTP 429"
+    },
+    {
+      "endpoint": "offer_availability",
+      "status": 429,
+      "attempts": 1,
+      "detail": "HTTP 429"
+    },
+    {
+      "endpoint": "offers",
+      "status": 429,
+      "attempts": 2,
+      "detail": "POST отклонён с 405. Повтор GET: HTTP 429"
+    },
+    {
+      "endpoint": "page",
+      "status": 429,
+      "attempts": 1,
+      "detail": "HTTP 429"
+    }
+  ],
+  "product_review_summary": {
+    "entityType": "PRODUCT",
+    "entityId": "145083048",
+    "imagesCount": 519,
+    "videosCount": 0,
+    "averageRating": 4.934579439252336,
+    "ratingSum": 1584,
+    "ratingCount": 321,
+    "filterTypeCount": {
+      "36": 277,
+      "37": 274,
+      "38": 3,
+      "44": 205
+    },
+    "ratingShares": {
+      "5": {
+        "count": 309,
+        "percentage": 96
+      },
+      "1": {
+        "count": 3,
+        "percentage": 1
+      },
+      "4": {
+        "count": 9,
+        "percentage": 3
+      },
+      "2": {
+        "count": 0,
+        "percentage": 0
+      },
+      "3": {
+        "count": 0,
+        "percentage": 0
+      }
+    },
+    "descendantsReviewInfo": []
+  }
+}

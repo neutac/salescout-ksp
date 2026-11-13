@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Manrope", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Newsreader", Georgia, serif;
+  --color-paper: #f3efe6;
+  --color-ink: #1b1916;
+  --color-muted: #6d655b;
+  --color-line: #e3d9c8;
+  --color-card: #fffdf8;
+  --color-accent: #c81d25;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: var(--color-paper);
+  color: var(--color-ink);
+}
